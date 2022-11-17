@@ -18,7 +18,7 @@ int main(void) {
   for (i = 0; i < rows; i++) {
     for (j = 0; j < columns; j++) {
       if (i == j) {
-        trace = trace + Tra_arr[i][j];
+        trace = trace + Tra_arr[i][j];  // finding trace
       }
     }
   }
