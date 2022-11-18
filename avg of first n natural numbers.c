@@ -1,3 +1,5 @@
+/* Program to find average of first n natural numbers */
+
 #include <stdio.h>
 
 int main(void) {
