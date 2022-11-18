@@ -1,3 +1,5 @@
+/* program to find wether entered number is positive or negeaative */
+
 #include <stdio.h>
 
 int main(void) {
