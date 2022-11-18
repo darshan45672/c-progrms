@@ -1,3 +1,5 @@
+/* Program to find area of a square using single variable */
+
 #include <stdio.h>
 
 //using single variable
