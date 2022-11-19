@@ -1,3 +1,6 @@
+/* program to read display and calculate the average marks of students
+also to display students who scored above and average marks */
+
 #include <stdio.h>
 struct student {
   int marks, usn;
