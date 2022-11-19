@@ -1,3 +1,5 @@
+/*Program to implement binary search on integers */
+
 #include <stdio.h>
 
 int main(void) {
