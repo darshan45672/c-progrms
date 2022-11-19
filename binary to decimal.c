@@ -1,3 +1,5 @@
+/* Program to convert binary number to decimal number  */
+
 #include <stdio.h>
 int bintodec(int n);
 int main(void) {
