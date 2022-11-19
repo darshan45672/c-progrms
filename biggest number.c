@@ -1,3 +1,5 @@
+/* program to find biggest number in a array */
+
 #include <stdio.h>
 
 int main(void) {
