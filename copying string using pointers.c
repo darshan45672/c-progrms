@@ -1,3 +1,5 @@
+/* Program to copy one string using pointers */
+
 #include <stdio.h>
 
 int main(void) {
