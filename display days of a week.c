@@ -1,3 +1,6 @@
+/* Program to display the corresponding day to the entered number ( 1 - 7 ) */
+
+
 #include <stdio.h>
 
 int main(void) {
