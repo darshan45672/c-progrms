@@ -1,3 +1,5 @@
+/* Program to find difference of 2 integers */
+
 #include <stdio.h>
 
 int main(void) {
