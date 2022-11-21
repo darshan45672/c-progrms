@@ -1,3 +1,5 @@
+/* Program to display exam result */
+
 #include <stdio.h>
 
 int main(void) {
