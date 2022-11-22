@@ -1,3 +1,5 @@
+/*Program to display whether a person is eligible to vote by taing his age as parametre*/
+
 #include <stdio.h>
 
 int main(void) {
