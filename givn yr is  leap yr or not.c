@@ -1,3 +1,5 @@
+/*Program to determine wether entered year is leap year or not*/
+
 #include <stdio.h>
 
 int main(void) {
