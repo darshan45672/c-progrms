@@ -1,3 +1,5 @@
+/*Program to determine even or odd*/
+
 #include <stdio.h>
 
 int main(void) {
