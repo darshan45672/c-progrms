@@ -1,4 +1,4 @@
-/* Program to find largest*/
+/* Program to find largest of */
 
 #include <stdio.h>
 
