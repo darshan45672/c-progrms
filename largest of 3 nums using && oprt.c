@@ -1,4 +1,4 @@
-/* Program to find largest of */
+/* Program to find largest of 3 numbers */
 
 #include <stdio.h>
 
