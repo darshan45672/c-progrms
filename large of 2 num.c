@@ -1,3 +1,5 @@
+/*Program to find largest of two numbers */
+
 #include <stdio.h>
 
 int main(void) {
