@@ -1,4 +1,4 @@
-/* Program to */
+/* Program to find */
 
 #include <stdio.h>
 
