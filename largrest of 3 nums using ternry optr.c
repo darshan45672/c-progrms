@@ -1,4 +1,4 @@
-/* Program */
+/* Program to */
 
 #include <stdio.h>
 
