@@ -1,4 +1,4 @@
-/* Program to perform linear search on */
+/* Program to perform linear search on integers */
 
 #include <stdio.h>
 
