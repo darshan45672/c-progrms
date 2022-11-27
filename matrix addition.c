@@ -1,3 +1,5 @@
+/*Progra to perform Matrix Addition */
+
 #include <stdio.h>
 
 int main(void) {
