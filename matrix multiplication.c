@@ -1,4 +1,4 @@
-/* Program to perform Matrix Mul*/
+/* Program to perform Matrix Multiplication*/
 
 #include <stdio.h>
 
