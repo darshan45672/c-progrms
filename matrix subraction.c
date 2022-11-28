@@ -1,4 +1,4 @@
-/* Program to */
+/* Program to perform Matrix */
 
 #include <stdio.h>
 
