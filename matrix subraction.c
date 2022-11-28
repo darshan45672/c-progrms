@@ -1,4 +1,4 @@
-/* Program to perform Matrix */
+/* Program to perform Matrix Subractio */
 
 #include <stdio.h>
 
