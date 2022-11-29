@@ -1,4 +1,4 @@
-/* Program to determine */
+/* Program to determine wether entered letter is a vowel*/
 
 #include <stdio.h>
 
