@@ -1,3 +1,5 @@
+/* Program to determine */
+
 #include <stdio.h>
 
 int main(void) {
