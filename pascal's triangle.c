@@ -1,4 +1,4 @@
-/* Program to create a pascal's triangle taking */
+/* Program to create a pascal's triangle taking number of rows as input from the user*/
 
 #include <stdio.h>
 
