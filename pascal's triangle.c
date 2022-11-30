@@ -1,4 +1,4 @@
-/* Program to create a pascal's triangle */
+/* Program to create a pascal's triangle taking */
 
 #include <stdio.h>
 
