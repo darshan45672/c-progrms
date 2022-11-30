@@ -1,4 +1,4 @@
-/* Program to create a pasac */
+/* Program to create a pascal's  */
 
 #include <stdio.h>
 
