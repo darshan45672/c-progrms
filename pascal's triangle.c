@@ -1,3 +1,5 @@
+/* Program to create a pasac */
+
 #include <stdio.h>
 
 int main(void) {
