@@ -1,3 +1,5 @@
+/* Program to find product */
+
 #include <stdio.h>
 
 int main(void) {
