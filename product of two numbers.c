@@ -1,4 +1,4 @@
-/* Program to find product of two */
+/* Program to find product of two numbers */
 
 #include <stdio.h>
 
