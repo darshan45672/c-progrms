@@ -1,4 +1,4 @@
-/* Program to read n elements from the user and display the sum of  */
+/* Program to read n elements from the user and display the sum of all even numbers  */
 
 #include <stdio.h>
 
