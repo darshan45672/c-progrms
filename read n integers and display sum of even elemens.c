@@ -1,4 +1,4 @@
-/* Program to */
+/* Program to read n elements from the user and display the sum of  */
 
 #include <stdio.h>
 
