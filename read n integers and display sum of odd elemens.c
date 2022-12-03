@@ -1,4 +1,4 @@
-/* Program to  */
+/* Program to read n numbers from the user */
 
 #include <stdio.h>
 
