@@ -1,4 +1,4 @@
-/* Program to read n numbers from the user */
+/* Program to read n numbers from the user and calculate the sum of odd numbers upto n */
 
 #include <stdio.h>
 
