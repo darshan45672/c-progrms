@@ -1,4 +1,4 @@
-/* Program to find reverse  */
+/* Program to find reverse of a */
 
 
 #include <stdio.h>
