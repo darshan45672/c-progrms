@@ -1,4 +1,4 @@
-/* Program to find reverse of a number */
+/* Program to find reverse of a number entered by the user*/
 
 
 #include <stdio.h>
