@@ -1,3 +1,5 @@
+/* Program to find roots of a  */
+
 #include <math.h>
 #include <stdio.h>
 int main(void) {
