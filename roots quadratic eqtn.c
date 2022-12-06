@@ -1,4 +1,4 @@
-/* Program to find roots of a quadraitic equati */
+/* Program to find roots of a quadraitic equation */
 
 #include <math.h>
 #include <stdio.h>
