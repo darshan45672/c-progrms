@@ -1,3 +1,5 @@
+/* Program  to implements*/
+
 #include <stdio.h>
 
 int main(void) {
