@@ -1,4 +1,4 @@
-/* Program to calculate simple calculator */
+/* Program to stimu simple calculator */
 
 #include <stdio.h>
 
