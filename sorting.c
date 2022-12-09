@@ -1,4 +1,4 @@
-/* Program  to implements*/
+/* Program  to implement sorting  */
 
 #include <stdio.h>
 
