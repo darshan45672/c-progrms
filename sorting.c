@@ -1,4 +1,4 @@
-/* Program  to implement sorting on integers, This program sorts the integers taken by the user in ascending  */
+/* Program  to implement sorting on integers, This program sorts the integers taken by the user in ascending order */
 
 #include <stdio.h>
 
