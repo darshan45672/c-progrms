@@ -1,4 +1,4 @@
-/* Program to calculate string length using while */
+/* Program to calculate string length using while loop */
 
 #include <stdio.h>
 
