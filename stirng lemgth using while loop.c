@@ -1,3 +1,5 @@
+/* Program to calculate */
+
 #include <stdio.h>
 
 int main(void) {
