@@ -1,4 +1,4 @@
-/* Program to  */
+/* Program to compare two strings entered */
 
 #include <stdio.h>
 
