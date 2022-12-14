@@ -1,4 +1,4 @@
-/* Program to compare two strings entered by the user using while */
+/* Program to compare two strings entered by the user using while loop */
 
 #include <stdio.h>
 
