@@ -1,3 +1,5 @@
+/* Program to perform */
+
 #include <stdio.h>
 
 int main(void) {
