@@ -1,4 +1,4 @@
-/* Program to perform string concatination*/
+/* Program to perform string concatination using */
 
 #include <stdio.h>
 
