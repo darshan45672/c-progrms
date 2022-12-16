@@ -1,3 +1,5 @@
+/* Program to copy string from one source  */
+
 #include <stdio.h>
 #include<string.h>
 int main(void) {
