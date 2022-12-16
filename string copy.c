@@ -1,4 +1,4 @@
-/* Program to copy string from one source n */
+/* Program to copy string from one source  */
 
 #include <stdio.h>
 #include<string.h>
