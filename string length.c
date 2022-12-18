@@ -1,4 +1,4 @@
-/* Program to find length of a  */
+/* Program to find length of a string */
 
 #include <stdio.h>
 #include <string.h>
