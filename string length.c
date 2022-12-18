@@ -1,4 +1,4 @@
-/* Program to find length of a string using string */
+/* Program to find length of a string using string built in fun */
 
 #include <stdio.h>
 #include <string.h>
