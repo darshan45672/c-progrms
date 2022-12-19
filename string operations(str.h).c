@@ -1,4 +1,4 @@
-/* Program to perform various string ope */
+/* Program to perform various string operations */
 
 #include <stdio.h>
 #include <strings.h>
