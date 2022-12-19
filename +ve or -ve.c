@@ -1,4 +1,4 @@
-/* program to find wether entered number is positive or negeaative */
+/* program to find wether entered number is positive or negeative */
 
 #include <stdio.h>
 
