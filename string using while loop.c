@@ -1,4 +1,4 @@
-/* Program to copy a string from source to destination */
+/* Program to copy a string from source to destination and display the number of characters copied from that string */
 
 #include <stdio.h>
 
