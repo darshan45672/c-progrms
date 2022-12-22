@@ -1,4 +1,4 @@
-/* Program to find the sum and average  */
+/* Program to find the sum and average of  */
 
 #include <stdio.h>
 
