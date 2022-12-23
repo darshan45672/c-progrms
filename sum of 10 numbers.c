@@ -1,4 +1,4 @@
-/* Program to sum of 10 numbers*/
+/* Program to sum of 10 numbers entered by the user */
 
 #include <stdio.h>
 
