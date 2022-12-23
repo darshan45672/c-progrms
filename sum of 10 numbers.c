@@ -1,3 +1,5 @@
+/* Program to sum*/
+
 #include <stdio.h>
 
 int main(void) {
