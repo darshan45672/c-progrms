@@ -1,4 +1,4 @@
-/* Program to display multiplication table*/
+/* Program to display multiplication table of the number which is entred by the*/
 
 #include<stdio.h>
 int main()
