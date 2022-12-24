@@ -1,3 +1,5 @@
+/* Program to display multiplication table */
+
 #include<stdio.h>
 int main()
 {
@@ -8,5 +10,5 @@ int main()
     {
       printf("%d X %d = %d\n",num,i,num*i);
     }
-  return 0;char
+  return 0;
 }
