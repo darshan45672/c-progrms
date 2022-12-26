@@ -1,4 +1,4 @@
-/* Programme to find sum */
+/* Programme to find sum using 3 variables and 2 varibles */
 
 #include <stdio.h>
 
