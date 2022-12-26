@@ -1,4 +1,4 @@
-/*  */
+/* Programme to find sum */
 
 #include <stdio.h>
 
