@@ -1,16 +1,18 @@
+/*  */
+
 #include <stdio.h>
 
 int main(void) {
 
   //using 3 variables
   
-  /* int a,b;
+  int a,b;
   printf("enter the value of a=\n");
   scanf("%d",&a);
    printf("enter the value of b=\n");
   scanf("%d",&b);
   int sum=a+b;
-  printf("sum = %d",sum); */
+  printf("sum = %d",sum); 
 
   //using 2 variable 
 
