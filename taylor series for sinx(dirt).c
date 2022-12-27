@@ -1,4 +1,4 @@
-/* Program to */
+/* Program to find taylor series of  */
 
 #include <stdio.h>
 
