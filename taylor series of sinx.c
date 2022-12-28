@@ -1,3 +1,5 @@
+/* Program to find taylor series for sin(x)  */
+
 #include <stdio.h>
 
 int main(void) {
