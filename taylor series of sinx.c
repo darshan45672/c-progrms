@@ -1,4 +1,4 @@
-/* Program to find taylor series for sin(x) where x is the user entered */
+/* Program to find taylor series for sin(x) where x is the user entered va*/
 
 #include <stdio.h>
 
