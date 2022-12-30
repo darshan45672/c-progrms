@@ -1,4 +1,4 @@
-/* Program to find the trace */
+/* Program to find the trace of a  */
 
 #include <stdio.h>
 
