@@ -1,4 +1,4 @@
-/* Program to find the trace of a  */
+/* Program to find the trace of a matrix of order m*n */
 
 #include <stdio.h>
 
