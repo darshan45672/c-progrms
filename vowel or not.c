@@ -1,4 +1,4 @@
-/* Program to check wether the entered alphabet*/
+/* Program to check wether the entered alphabet is vowel or not*/
 
 #include <stdio.h>
 
