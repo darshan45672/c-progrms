@@ -1,4 +1,4 @@
-/* Program to check */
+/* Program to check wether the */
 
 #include <stdio.h>
 
