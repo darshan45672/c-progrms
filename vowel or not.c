@@ -1,4 +1,4 @@
-/* Program to check wether the */
+/* Program to check wether the entered alphabet*/
 
 #include <stdio.h>
 
