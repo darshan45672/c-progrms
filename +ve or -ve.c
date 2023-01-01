@@ -4,9 +4,9 @@
 
 int main(void) {
   int num;
-  printf("enter a number:\n");    // taking input from the 
+  printf("enter a number:\n");    // taking input from the user
   scanf("%d",&num);
-  if(num==0){
+  if(num==0){                   //
     printf("\nthe value is equal to zero");
     }else if(num>0){
     printf("\nthe number is positive");
