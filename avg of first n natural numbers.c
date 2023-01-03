@@ -16,4 +16,5 @@ int main(void) {
   printf("\n the sum of first %d natural numbers = %d\n the average of first " 
          "%d natural numbers is = %f\n",
          n, sum, n, avg);                     // displaying the calculated sum and average
+  return 0;
 }
