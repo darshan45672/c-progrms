@@ -5,7 +5,7 @@
 int main(void) {
   int n, i, sum = 0;
   float avg = 0.0;
-  printf("enter the value of n:\n");
+  printf("enter the value of n:\n");    // taking the user input
   scanf("%d", &n);
   i = 1;
   do {
