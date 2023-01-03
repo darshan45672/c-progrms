@@ -9,6 +9,6 @@ int main(void) {
  int side;
   printf("eneter the value of side of a square =");  //taking the user input
   scanf("%d",&side); 
-  printf("the area of a square is %d",side*side);    // displaying the calculated area using 
+  printf("the area of a square is %d",side*side);    // displaying the calculated area using shortcut method in printf
   return 0;
   }
