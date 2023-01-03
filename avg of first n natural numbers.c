@@ -7,8 +7,8 @@ int main(void) {
   float avg = 0.0;      // declaring average as float because result of division might be of datatype flaot
   printf("enter the value of n:\n");    // taking the user input
   scanf("%d", &n);
-  i = 1;       
-  do {
+  i = 1;           // iniatialsing variable i to 1       
+  do { 
     sum = sum + i;
     i++;
   } while (i <= n);
