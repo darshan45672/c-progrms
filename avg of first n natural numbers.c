@@ -4,7 +4,7 @@
 
 int main(void) {
   int n, i, sum = 0;   // daclaring variables and initialising sum = 0 
-  float avg = 0.0;
+  float avg = 0.0;      // declaring average as float because result of division might be of datatype flaot
   printf("enter the value of n:\n");    // taking the user input
   scanf("%d", &n);
   i = 1;       
