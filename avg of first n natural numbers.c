@@ -9,11 +9,11 @@ int main(void) {
   scanf("%d", &n);
   i = 1;           // iniatialsing variable i to 1       
   do { 
-    sum = sum + i;
-    i++;
-  } while (i <= n);
-  avg = sum / n;
-  printf("\n the sum of first %d natural numbers = %d\n the average of first "
+    sum = sum + i;  // using do while we are looping to calculate the sum and increment i on each iterationvcda
+      i++;
+  } while (i <= n); // checking the exit condition
+  avg = sum / n;     // calculating the average from the obtianed sum
+  printf("\n the sum of first %d natural numbers = %d\n the average of first " 
          "%d natural numbers is = %f\n",
          n, sum, n, avg);
 }
