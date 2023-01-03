@@ -15,5 +15,5 @@ int main(void) {
   avg = sum / n;     // calculating the average from the obtianed sum
   printf("\n the sum of first %d natural numbers = %d\n the average of first " 
          "%d natural numbers is = %f\n",
-         n, sum, n, avg);
+         n, sum, n, avg);                     // displaying the calculated sum and average
 }
