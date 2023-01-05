@@ -11,12 +11,12 @@ int main(void) {
     scanf("%d", &a[i]);                // asking the user to enter n elemnts and storing the entered elements array
   }
   for (i = 0; i < n; i++) {
-    big = a[0];
+    big = a[0];        // initialising a[0] as big
     for (i = 0; i < n; i++) {
-      if (a[i] > big) {
-        big = a[i];
+      if (a[i] > big) {         // checking wether the element at a[i] is big or not
+        big = a[i];            // if true then a[i] is assigned as big
       }
     }
   }
-  printf("biggest number is %d", big);
+  printf("biggest number is %d", big);  // displaying the value 
 }
