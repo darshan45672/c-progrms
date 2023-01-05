@@ -8,7 +8,7 @@ int main(void) {
   scanf("%d", &n);                // storing it in a variable n of type integer      
   printf("enter %d elements:\n", n);
   for (i = 0; i < n; i++) {
-    scanf("%d", &a[i]);
+    scanf("%d", &a[i]);                // asking the user to enter n elemnts and storing the entered elements array
   }
   for (i = 0; i < n; i++) {
     big = a[0];
