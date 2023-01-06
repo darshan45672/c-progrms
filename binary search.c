@@ -5,10 +5,10 @@
 int main(void) {
  int a[100], n, i, j, temp,low,high,mid,key;
   printf("enter the number of elements\n");
-  scanf("%d", &n);
+  scanf("%d", &n);             // taking user input 
   printf("enter %d elements\n", n);
   for (i = 0; i < n; i++) {
-    scanf("%d", &a[i]);
+    scanf("%d", &a[i]); // taking the user enterd elements and storing it in a array
   }
   printf("the entered elements are:\n");
   for (i = 0; i < n; i++) {
