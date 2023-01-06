@@ -25,7 +25,7 @@ int main(void) {
   }
   printf("\nwe have sorted the entered numbers in ascending order!\n");
   for (i = 0; i < n; i++) {
-    printf("%d\t", a[i]);
+    printf("%d\t", a[i]);    // displaying the sorted elements
   }
   printf("\n"); 
   printf("enter the element to be searched\n");
