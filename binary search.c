@@ -12,7 +12,7 @@ int main(void) {
   }
   printf("the entered elements are:\n");
   for (i = 0; i < n; i++) {
-    printf("%d\t", a[i]);
+    printf("%d\t", a[i]);   // displaying the elements entered by the user
   }
   for (i = 1; i < n; i++) {
     for (j = 0; j < n - i; j++) {
