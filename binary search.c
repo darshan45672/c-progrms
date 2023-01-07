@@ -34,7 +34,7 @@ int main(void) {
   high=n-1;  // initialising high as 1 less than maxsize of the array
   while(low<=high)
     {
-      mid=(low + high)/2;
+      mid=(low + high)/2; // finding mid 
       if(key==a[mid])  // checking if mid is equal to key 
       {
         printf("sucessful search and element is found at position=%d\n\t\t\tTHANK YOU!",mid+1);
