@@ -42,11 +42,11 @@ int main(void) {
       }
       if(key>a[mid])
       {
-        low=mid+1;
+        low=mid+1;   // reassigning low 
       }
       else
       {
-        high=mid-1;
+        high=mid-1;  // reassigning high
       }
     }
   printf("unsucessful search\n");
