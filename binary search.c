@@ -31,7 +31,7 @@ int main(void) {
   printf("enter the element to be searched\n");
   scanf("%d",&key);  // storing the element to be searched entred by the user 
   low=0;   // initialising low = 0
-  high=n-1;
+  high=n-1;  // initialising high as 1 less than maxsize of the array
   while(low<=high)
     {
       mid=(low + high)/2;
