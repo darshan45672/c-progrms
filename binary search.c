@@ -49,7 +49,7 @@ int main(void) {
         high=mid-1;  // reassigning high
       }
     }
-  printf("unsucessful search\n");    // diplay search unsucessfull
+  printf("unsucessful search\n");    // diplay search unsucessfull and terminate the program
   printf("\t\t\tTHANK YOU!");
 }
   
