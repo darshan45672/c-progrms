@@ -37,7 +37,7 @@ int main(void) {
       mid=(low + high)/2; // finding mid 
       if(key==a[mid])  // checking if mid is equal to key 
       {
-        printf("sucessful search and element is found at position=%d\n\t\t\tTHANK YOU!",mid+1);
+        printf("sucessful search and element is found at position=%d\n\t\t\tTHANK YOU!",mid+1);     // if true then display search sucessfull and  exit the  program
         exit(0);
       }
       if(key>a[mid])  // checking wether key is greater than mid
