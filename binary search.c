@@ -40,7 +40,7 @@ int main(void) {
         printf("sucessful search and element is found at position=%d\n\t\t\tTHANK YOU!",mid+1);
         exit(0);
       }
-      if(key>a[mid])
+      if(key>a[mid])  // checking wether key is greater than mid
       {
         low=mid+1;   // reassigning low 
       }
