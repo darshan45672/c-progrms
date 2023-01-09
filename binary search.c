@@ -50,6 +50,6 @@ int main(void) {
       }
     }
   printf("unsucessful search\n");    // diplay search unsucessfull and terminate the program
-  printf("\t\t\tTHANK YOU!");
+  printf("\t\t\tTHANK YOU!");     // exit
 }
   
