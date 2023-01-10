@@ -10,8 +10,8 @@ struct student {        // creating a structure named student
 int main() {
   int i, n;
   float sum = 0, avg;
-  struct student s[100];
-  printf("enter the number ofstudents\n");
+  struct student s[100];    // declaring the structure variable for student
+  printf("enter the number ofstudents\n");  // taking the number of students from the user
   scanf("%d", &n);
   printf("enter the students detial:\nusn:\tname,\tmarks:\n");
   for (i = 0; i < n; i++) {
