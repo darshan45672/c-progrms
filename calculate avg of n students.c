@@ -2,7 +2,7 @@
 also to display students who scored above and average marks */
 
 #include <stdio.h>
-struct student {
+struct student {        // creating a structure named student
   int marks, usn;
   char name[100];
 };
