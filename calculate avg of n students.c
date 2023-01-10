@@ -3,9 +3,10 @@ also to display students who scored above and average marks */
 
 #include <stdio.h>
 struct student {        // creating a structure named student
-  int marks, usn;
+  int marks, usn;      // declaring the structure members 
   char name[100];
 };
+
 int main() {
   int i, n;
   float sum = 0, avg;
