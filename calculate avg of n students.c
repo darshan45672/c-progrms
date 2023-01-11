@@ -28,11 +28,11 @@ int main() {
 
   printf("\nstudents scored above average marks:\n usn,\tname,\tmarks\n");      // display all the students who's score is greater than average marks
   for (i = 0; i < n; i++) {
-    if (s[i].marks >= avg) {    // condition to check if the marks scored the respective student is greater  than average marks 
+    if (s[i].marks >= avg) {    // condition to check if the marks scored the respective student is greater  than average marks if it's true then display
       printf("%d\t%s\t%d\t", s[i].usn, s[i].name, s[i].marks);
     }
   }
-  printf("\nstudents scored below avg marks:\n usn,\tname,\tmarks\n");
+  printf("\nstudents scored below avg marks:\n usn,\tname,\tmarks\n");        // display all the students who's score is less than average marks
   for (i = 0; i < n; i++) {
     if (s[i].marks < avg) {
       printf("%d\t%s\t%d\n", s[i].usn, s[i].name, s[i].marks);
