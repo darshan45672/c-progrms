@@ -10,15 +10,18 @@ struct student {        // creating a structure named student
 int main() {
   int i, n;          // declaring the variables and thier data types which are required to perform some required operations
   float sum = 0, avg;
-  
+
   struct student s[100];    // declaring the structure variable for student
+
   printf("enter the number ofstudents\n");  // taking the number of students from the user
   scanf("%d", &n);  // storing the user give data in a variable named n
-  printf("enter the students detial:\nusn:\tname,\tmarks:\n");
+
+  printf("enter the students detial:\nusn:\tname,\tmarks:\n");    // asking the user to enter the respective student detials
   for (i = 0; i < n; i++) {
     scanf("%d%s%d", &s[i].usn, &s[i].name, &s[i].marks);
-    sum = sum + s[i].marks;
+    sum = sum + s[i].marks;       // calculating the sum simultaneously
   }
+  
   avg = sum / n;
   printf("avg marks is %f", avg);
   printf("\nstudents scored above average marks:\n usn,\tname,\tmarks\n");
