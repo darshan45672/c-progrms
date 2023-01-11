@@ -21,12 +21,14 @@ int main() {
     scanf("%d%s%d", &s[i].usn, &s[i].name, &s[i].marks);
     sum = sum + s[i].marks;       // calculating the sum simultaneously
   }
-  
-  avg = sum / n;
-  printf("avg marks is %f", avg);
-  printf("\nstudents scored above average marks:\n usn,\tname,\tmarks\n");
+
+  avg = sum / n;      // calculating the average after calculating the sum
+
+  printf("avg marks is %f", avg);    // display average marks of the students
+
+  printf("\nstudents scored above average marks:\n usn,\tname,\tmarks\n");      // display all the students who's score is greater than average marks
   for (i = 0; i < n; i++) {
-    if (s[i].marks >= avg) {
+    if (s[i].marks >= avg) {    // condition to check if the marks scored the respective student is greater  than average marks 
       printf("%d\t%s\t%d\t", s[i].usn, s[i].name, s[i].marks);
     }
   }
