@@ -12,10 +12,11 @@ int main(void) {
   scanf("%s",str1); // storing the string in str1
 
   while(*ptr1!='\0'){   // looping the ptr variable till it approaches terminating character of the str1
-    *ptr2=*ptr1;
-    ptr1++;
+    *ptr2=*ptr1;   // copying the ptr1 to ptr2
+    ptr1++;   // incrementing ptr1 and ptr2
     ptr2++;
   }
-  *ptr2='\0';
+
+  *ptr2='\0'; // adding the terminating character to ptr2
   printf("copied string is %s\n",str2);
 }
