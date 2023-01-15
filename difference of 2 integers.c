@@ -14,4 +14,5 @@ int main(void) {
   printf("difference of two numbers is %d",res); // display the value in res
 
  return 0; //  end of main
+ 
 }
