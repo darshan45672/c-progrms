@@ -20,5 +20,5 @@ int main(void) {
   *ptr2='\0'; // adding the terminating character to ptr2
   printf("copied string is %s\n",str2);    // display the copied string
   
-  return 0;
+  return 0;   // end of main
 }
