@@ -32,8 +32,10 @@ int main(void) {
   case 7:
     printf("\n SATURDAY!");
     break;
-  default:
-    printf("\n\t\t\tSORRY!\n please enter a number between 1-7");
-  }  // end of switch 
 
+  default:printf("\n\t\t\tSORRY!\n please enter a number between 1-7");  // default statement
+
+  }  // end of switch
+   
+ return 0;
 }
