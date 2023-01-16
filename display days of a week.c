@@ -36,6 +36,7 @@ int main(void) {
   default:printf("\n\t\t\tSORRY!\n please enter a number between 1-7");  // default statement
 
   }  // end of switch
-   
- return 0;
+
+ return 0;  // end of main
+ 
 }
