@@ -8,8 +8,9 @@ int main(void) {
   int day;  // declaring variable named day
 
   printf("\n enter the number from 1-7:");  // taking user input
-  scanf("%d", &day);  //storing the user input in variable day
-  switch (day) {
+  scanf("%d", &day);  // storing the user input in variable day
+
+  switch (day) {   // using switch statement to find the corresponding day
   case 1:
     printf("\n SUNDAY!");
     break;
@@ -33,5 +34,6 @@ int main(void) {
     break;
   default:
     printf("\n\t\t\tSORRY!\n please enter a number between 1-7");
-  }
+  }  // end of switch 
+
 }
