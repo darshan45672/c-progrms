@@ -4,9 +4,11 @@
 #include <stdio.h>
 
 int main(void) {
-  int day;
-  printf("\n enter the number from 1-7:");
-  scanf("%d", &day);
+
+  int day;  // declaring variable named day
+
+  printf("\n enter the number from 1-7:");  // taking user input
+  scanf("%d", &day);  //storing the user input in variable day
   switch (day) {
   case 1:
     printf("\n SUNDAY!");
