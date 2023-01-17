@@ -27,5 +27,5 @@ int main(void) {
     printf("\n FAIL!");
   }            // end of if - else ladder
 
- return 0;
+ return 0;  // end of main
 }
