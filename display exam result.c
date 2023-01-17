@@ -3,7 +3,9 @@
 #include <stdio.h>
 
 int main(void) {
-  int marks;
+
+
+  int marks; // declaring required variables
   printf("\n enter the marks obtianed:\n");
   scanf("%d",&marks);
   if(marks>=75){
