@@ -18,7 +18,7 @@ int main(void) {
       else{        // otherwise its a odd number and display the relavent message
         printf("%d is odd\n",i);
       }
-    }
+    } // exit the loop
 
-    return 0;
+    return 0;  // end of main
 }
