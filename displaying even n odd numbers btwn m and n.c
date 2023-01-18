@@ -5,17 +5,17 @@
 int main(void) {
 
  int m,n,i; // declaring the required variables 
-  printf("enter the value of m and n:\n");
-  scanf("%d%d",&m,&n);
-  printf("here's your result!\n");
-  for(i=m;i<=n;i++)
-    {
-      if(i%2==0)
-      {
+
+  printf("enter the value of m and n:\n"); // taking input from the user
+
+  scanf("%d%d",&m,&n); // storing the  user input in a variable
+
+  printf("here's your result!\n");   // display the result
+  for(i=m;i<=n;i++){
+      if(i%2==0){
         printf("%d is even\n",i);
       }
-      else
-      {
+      else{
         printf("%d is odd\n",i);
       }
     }
