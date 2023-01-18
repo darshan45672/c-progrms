@@ -12,11 +12,13 @@ int main(void) {
 
   printf("here's your result!\n");   // display the result
   for(i=m;i<=n;i++){
-      if(i%2==0){
+      if(i%2==0){   // checking the codition for the number to be even and display the relavent message 
         printf("%d is even\n",i);
       }
-      else{
+      else{        // otherwise its a odd number and display the relavent message
         printf("%d is odd\n",i);
       }
     }
+
+    return 0;
 }
