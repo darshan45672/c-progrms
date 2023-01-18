@@ -13,7 +13,7 @@ int main(void) {
   if(marks>=75){              // checking wether the marks is greater than 75 using if-else ladder
     printf("\n DISTINCTION");
     }
-  else if(marks>=60&&marks<75){
+  else if(marks>=60&&marks<75){   
     printf("\n FIRST CLASS!");
     }
   else if(marks>=50&&marks<60){

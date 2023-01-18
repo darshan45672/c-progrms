@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 int main(void) {
- int m,n,i;
+
+ int m,n,i; // declaring the required variables 
   printf("enter the value of m and n:\n");
   scanf("%d%d",&m,&n);
   printf("here's your result!\n");
