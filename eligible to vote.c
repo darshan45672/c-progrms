@@ -15,4 +15,5 @@ int main(void) {
   else{   // if the above condition is false display the relavent message
     printf("SORRY!\nyou are not eligible to vote!");
   }
+ return 0;
 }
