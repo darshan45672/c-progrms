@@ -3,9 +3,10 @@
 #include <stdio.h>
 
 int main(void) {
- int  a=10;
- int *p;
-int **q;
+
+ int  a=10; // declaring the variable
+ int *p;  // declaring the pointer variable
+int **q;  // declaring the double pointer variable
   p=&a;
   q=&p;
   printf("%d\n",a);
