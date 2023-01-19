@@ -3,8 +3,10 @@
 #include <stdio.h>
 
 int main(void) {
- int age;
-  printf("enter the age:\n");
+
+ int age;  // ddeclaring the required variable
+ 
+  printf("enter the age:\n"); // taking input from the user
   scanf("%d",&age);
   if(age>=18)
   {
