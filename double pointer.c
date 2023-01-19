@@ -12,4 +12,6 @@ int **q;  // declaring the double pointer variable
   printf("%d\n",a);  // display the variable a
   printf("%d\n",*p); // display the contents of pointer variables
   printf("%d\n",**q);
+
+ return 0; // end of main
 }
