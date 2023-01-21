@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 int main(void) {
-  int num,rem;
+
+  int num,rem; // declaring the rquired variables
   printf("\n enter the number(1-50):\n");
   scanf("%d",&num);
   rem=num%2;
