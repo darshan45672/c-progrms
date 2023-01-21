@@ -16,4 +16,5 @@ int main(void) {
       case 1: printf("\n odd");
         break;
     }
+  return 0; // end of main
 }
