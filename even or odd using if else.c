@@ -5,7 +5,8 @@
 int main(void) {
 
   int num,rem; // declaring the rquired variables
-  printf("\n enter the number(1-50):\n");
+
+  printf("\n enter the number(1-50):\n"); // taking input from the user
   scanf("%d",&num);
   rem=num%2;
   switch(rem)
