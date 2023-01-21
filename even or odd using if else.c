@@ -10,11 +10,10 @@ int main(void) {
   scanf("%d",&num);  // storing the user entered data in variable num
 
   rem=num%2;  // performing modulo operation with 2
-  switch(rem) 
-    {
+  switch(rem) {  // switching the rem
       case 0: printf("\n even!");
-      break;
+        break;
       case 1: printf("\n odd");
-      break;
+        break;
     }
 }
