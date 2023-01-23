@@ -22,6 +22,6 @@ int n,res; // declaring the required variables
 int fact(int n){
   if(n==0)
     return 1; 
-else
+  else
 return (n*fact(n-1));
   }
