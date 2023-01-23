@@ -19,7 +19,7 @@ int n,res; // declaring the required variables
 
 /* function defination of fact(n) */
 
-int fact(int n){
+int fact(int n){       // this is a recursive function
   if(n==0)
     return 1; // defining the base / terminating condition
   else
