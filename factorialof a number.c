@@ -1,11 +1,12 @@
 /*Program to find factorial of number using recursion*/
 
 #include<stdio.h> 
-int fact(int);
+
+int fact(int); // declaring  a user defined function 
 int main(void )
 {
-int n,res;
-  printf("enter a number\n");
+int n,res; // declaring the required variables
+  printf("enter a number\n");  // taling input from the user
   scanf("%d",&n);
 res=fact(n);
 printf("factorial =%d",res); 
