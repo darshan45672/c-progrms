@@ -3,7 +3,9 @@
 #include <stdio.h>
 
 int main(void) {
-  int year;
+
+  int year; // declaring the required variables
+  
   printf("enter a year:\n");
   scanf("%d", &year);
   if ((year % 4 == 0) && ((year % 100 != 0) || (year % 400 == 0))) {
