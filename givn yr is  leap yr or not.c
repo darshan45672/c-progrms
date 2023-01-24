@@ -12,7 +12,7 @@ int main(void) {
 
   if ((year % 4 == 0) && ((year % 100 != 0) || (year % 400 == 0))) {   // checking the leap year condition and if the condition is true display leap year
     printf("\nLEAP YEAR!");
-  } else {  // if f
+  } else {  // if false display not a leap year
     printf("\nnot a leap year");
   }
 }
