@@ -7,10 +7,12 @@ int main(void) {
   int year; // declaring the required variables
 
   printf("enter a year:\n"); // taking input fron the user
-  scanf("%d", &year);
-  if ((year % 4 == 0) && ((year % 100 != 0) || (year % 400 == 0))) {
+
+  scanf("%d", &year); // storing the user input in a variable
+
+  if ((year % 4 == 0) && ((year % 100 != 0) || (year % 400 == 0))) {   // checking the leap year condition and if the condition is true display leap year
     printf("\nLEAP YEAR!");
-  } else {
+  } else {  // if f
     printf("\nnot a leap year");
   }
 }
