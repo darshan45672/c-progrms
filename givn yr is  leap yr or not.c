@@ -5,8 +5,8 @@
 int main(void) {
 
   int year; // declaring the required variables
-  
-  printf("enter a year:\n");
+
+  printf("enter a year:\n"); // taking input fron the user
   scanf("%d", &year);
   if ((year % 4 == 0) && ((year % 100 != 0) || (year % 400 == 0))) {
     printf("\nLEAP YEAR!");
