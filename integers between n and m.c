@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 int main(void) {
-  int m, n, i;
+
+  int m, n, i;  //
   printf("enter the value of m:\n");
   scanf("%d", &m);
   printf("enter the value of n:\n");
