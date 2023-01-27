@@ -1,4 +1,4 @@
-/*Program to display numbersbetween m and n */
+/*Program to display numbers between m and n */
 
 #include <stdio.h>
 
