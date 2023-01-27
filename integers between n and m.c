@@ -15,4 +15,5 @@ int main(void) {
   for (i = m; i <= n; i++) {
     printf("\t%d", i);
   }
+ return 0;
 }
