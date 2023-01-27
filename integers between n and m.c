@@ -4,7 +4,8 @@
 
 int main(void) {
 
-  int m, n, i;  // declaring the required  varaible
+  int m, n, i;  // declaring the required  varaibles
+  
   printf("enter the value of m:\n");
   scanf("%d", &m);
   printf("enter the value of n:\n");
