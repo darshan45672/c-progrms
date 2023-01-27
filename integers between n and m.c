@@ -13,7 +13,7 @@ int main(void) {
   scanf("%d", &n);
 
   for (i = m; i <= n; i++) {
-    printf("\t%d", i);
+    printf("\t%d", i);        // dispalying the numbers between m and n
   }
- return 0;
+ return 0;  // end of main
 }
