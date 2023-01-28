@@ -14,5 +14,8 @@ int main(void) {  // start of main
   if(b>big){  // checking  if b is greater than a if true assign big as b
     big=b;
   }
-  printf("the biggest number is %d\n",big);
+  printf("the biggest number is %d\n",big);  // display the big value
+
+ return 0; // end of main
+ 
 }
