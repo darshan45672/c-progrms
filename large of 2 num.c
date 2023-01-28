@@ -8,10 +8,10 @@ int main(void) {  // start of main
 
   printf("enter two numbers:\n");  // taking user input
   scanf("%d%d,&a,&b");  // storing the user entered  data in a variable
-  
-  big =a;
-  if(b>big)
-  {
+
+  big =a;  // assigning big as a
+
+  if(b>big){  // checking  if b is greater than a if true assign big as b
     big=b;
   }
   printf("the biggest number is %d\n",big);
