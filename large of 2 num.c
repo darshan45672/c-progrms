@@ -2,8 +2,10 @@
 
 #include <stdio.h>
 
-int main(void) {
-  int a,b,big;
+int main(void) {  // start of main
+
+  int a,b,big;  // declaring the required variables
+
   printf("enter two numbers:\n");
   scanf("%d%d,&a,&b");
   big =a;
