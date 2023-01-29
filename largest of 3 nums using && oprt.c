@@ -14,8 +14,8 @@ int main(void) {
   printf("\n enter the third number:");
   scanf("%d",&num3);
 
-  /* */
-  
+  /* checking the biggest number using if-else ladder */
+
   if(num1>num2&&num1>num3){
     printf("\n %d is the largest number!",num1);
     }
@@ -25,4 +25,6 @@ int main(void) {
   else{
     printf("\n %d is the largest number!");
   }
+
+ return 0;
 }
