@@ -13,5 +13,7 @@ int main(void) {
   big=a>b?(a>c?a:c):(b>c?b:c); // checking the biggest number using ternary operator / conditional operator and assigning the returned value to a variable named big
 
   printf("%d is the largest number",big); // display the value of big
- return 0;
+
+ return 0; // end of main
+ 
 }
