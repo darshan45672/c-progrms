@@ -10,6 +10,6 @@ int main(void) {
   printf("enter 3 numbers:\n");  // taking 3 numbers from the  user
   scanf("%d%d%d",&a,&b,&c);  // storing the user entered data in appropriate  variables
 
-  big=a>b?(a>c?a:c):(b>c?b:c); // checking the biggest number using ternary operator / conditional operator and
+  big=a>b?(a>c?a:c):(b>c?b:c); // checking the biggest number using ternary operator / conditional operator and assigning the returned value to a variable named big
   printf("%d is the largest number",big);
 }
