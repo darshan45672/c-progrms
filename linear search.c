@@ -10,9 +10,9 @@ int main(void) {
   printf("enter numbers of elemnts:");   //  taking input from the user
   scanf("%d", &n);   // storing the data in a variable 
 
-  printf("\nenter %d elements\n", n);
+  printf("\nenter %d elements\n", n);   
   for (i = 0; i < n; i++) {
-    scanf("%d", &a[i]);
+    scanf("%d", &a[i]);          // taking user entered numbers
   }
   printf("enter the element to be searched:\n");
   scanf("%d", &key);
