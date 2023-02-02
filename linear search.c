@@ -21,7 +21,7 @@ int main(void) {
       printf("search sucessful!\n",
              key, a[i]);
       exit(0);
-    } // end of
+    } // end of for loop
   }
   printf("search unsucessful!\n element %d is not found in the given list!\n",  key);
 }
