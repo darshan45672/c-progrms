@@ -17,7 +17,7 @@ int main(void) {
   printf("enter the element to be searched:\n");  // asking the user to enter the element to be searched
   scanf("%d", &key);  // storing the user entered data in a variable 
   for (i = 0; i < n; i++) {
-    if (a[i] == key) {   // checking the wether the key is 
+    if (a[i] == key) {   // checking the wether the key is equal to element in that  
       printf("search sucessful!\n",
              key, a[i]);
       exit(0);
