@@ -14,9 +14,10 @@ int main(void) {
   for (i = 0; i < n; i++) {
     scanf("%d", &a[i]);          // taking user entered numbers and stroing it in a array
   }
+  
   printf("enter the element to be searched:\n");  // asking the user to enter the element to be searched
   scanf("%d", &key);  // storing the user entered data in a variable 
-  
+
   for (i = 0; i < n; i++) {
     if (a[i] == key) {   // checking the wether the key is equal to element in that array and if true display the message
       printf("search sucessful!\n",
