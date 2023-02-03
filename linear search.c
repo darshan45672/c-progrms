@@ -23,6 +23,7 @@ int main(void) {
       exit(0);
     } 
   } // end of for loop
+  
   printf("search unsucessful!\n element %d is not found in the given list!\n",  key);  // if not found in the list display key not found
 
  return 0;  // end of main
