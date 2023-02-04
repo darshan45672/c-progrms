@@ -1,12 +1,12 @@
-/*Progra to perform Matrix Addition */
+/*Program to perform Matrix Addition */
 
 #include <stdio.h>
 
 int main(void) {
 
-  int a[50][50], b[50][50], c[50][50], i, j, m, n, p, q;  // declaring the variables
-  
-  printf("enter the order of matrix A:\n");
+  int a[50][50], b[50][50], c[50][50], i, j, m, n, p, q;  // declaring the required variables
+
+  printf("enter the order of matrix A:\n");  // 
   scanf("%d%d", &m, &n);
   printf("enter the order of matrix B:\n");
   scanf("%d%d", &p, &q);
