@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 int main(void) {
+
+  int a[50][50], b[50][50], c[50][50], i, j, m, n, p, q;  // declaring the variables
   
-  int a[50][50], b[50][50], c[50][50], i, j, m, n, p, q;
   printf("enter the order of matrix A:\n");
   scanf("%d%d", &m, &n);
   printf("enter the order of matrix B:\n");
