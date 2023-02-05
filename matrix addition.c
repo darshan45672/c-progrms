@@ -9,7 +9,7 @@ int main(void) {
   printf("enter the order of matrix A:\n");  // taking user input from the user
   scanf("%d%d", &m, &n);  // storing the user input in a variable
   printf("enter the order of matrix B:\n");  // taking user input from the user
-  scanf("%d%d", &p, &q);
+  scanf("%d%d", &p, &q);  // storing the user input in a variable
   if (m != p || n != q) {
     printf("\t\tSORRy!\nmatrix addition not possible!\n");
     exit(0);
