@@ -6,9 +6,9 @@ int main(void) {
 
   int a[50][50], b[50][50], c[50][50], i, j, m, n, p, q;  // declaring the required variables
 
-  printf("enter the order of matrix A:\n");  // taking user input from the  user
-  scanf("%d%d", &m, &n);
-  printf("enter the order of matrix B:\n");
+  printf("enter the order of matrix A:\n");  // taking user input from the user
+  scanf("%d%d", &m, &n);  // storing the user input in a variable
+  printf("enter the order of matrix B:\n");  //
   scanf("%d%d", &p, &q);
   if (m != p || n != q) {
     printf("\t\tSORRy!\nmatrix addition not possible!\n");
