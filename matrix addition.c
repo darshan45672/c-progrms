@@ -12,6 +12,7 @@ int main(void) {
   scanf("%d%d", &p, &q);  // storing the user input in a variable
 
   /* Checking the basic for performing matrix addition */
+  
   if (m != p || n != q) {
     printf("\t\tSORRy!\nmatrix addition not possible!\n");
     exit(0);
