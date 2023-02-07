@@ -18,13 +18,13 @@ int main(void) {
     exit(0);
   } 
   else {  // if 'if' clause is false then else part is executed
-    printf("enter the elements for matrix A:\n");
+    printf("enter the elements for matrix A:\n");  // taking enteries from the user for matrix A
     for (i = 0; i < m; i++) {
       for (j = 0; j < n; j++) {
-        scanf("%d", &a[i][j]);  // taking enteries from the user
+        scanf("%d", &a[i][j]);  // storing the data in a repective 2-D array
       }
     }
-    printf("enter the elements for matrix B:\n");
+    printf("enter the elements for matrix B:\n");  // taking enteries from the user for matrix B
     for (i = 0; i < p; i++) {
       for (j = 0; j < q; j++) {
         scanf("%d", &b[i][j]);
