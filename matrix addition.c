@@ -13,7 +13,7 @@ int main(void) {
 
   /* Checking the basic for performing matrix addition */
   
-  if (m != p || n != q) {
+  if (m != p || n != q) {  // if true thid displays a appropriate message
     printf("\t\tSORRy!\nmatrix addition not possible!\n");
     exit(0);
   } 
