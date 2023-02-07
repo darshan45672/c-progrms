@@ -21,7 +21,7 @@ int main(void) {
     printf("enter the elements for matrix A:\n");
     for (i = 0; i < m; i++) {
       for (j = 0; j < n; j++) {
-        scanf("%d", &a[i][j]);
+        scanf("%d", &a[i][j]);  // taking enteries from the user
       }
     }
     printf("enter the elements for matrix B:\n");
