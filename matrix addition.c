@@ -16,7 +16,8 @@ int main(void) {
   if (m != p || n != q) {
     printf("\t\tSORRy!\nmatrix addition not possible!\n");
     exit(0);
-  } else {
+  } 
+  else {  // if 'if' clause is false then else part is executed
     printf("enter the elements for matrix A:\n");
     for (i = 0; i < m; i++) {
       for (j = 0; j < n; j++) {
