@@ -30,7 +30,7 @@ int main(void) {
         scanf("%d", &b[i][j]); // storing the data in a repective 2-D array
       }
     }
-    
+
     /* displaying the matrices */
 
     printf("matrix A is displayed as:\n");
@@ -40,6 +40,7 @@ int main(void) {
       }
       printf("\n");
     }
+    /* displaying the matrix B */
     printf("\nmatrix B is displayed as:\n");
     for (i = 0; i < p; i++) {
       for (j = 0; j < q; j++) {
