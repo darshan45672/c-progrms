@@ -40,6 +40,7 @@ int main(void) {
       }
       printf("\n");
     }
+    
     /* displaying the matrix B */
     printf("\nmatrix B is displayed as:\n");
     for (i = 0; i < p; i++) {
