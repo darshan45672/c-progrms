@@ -42,7 +42,6 @@ int main(void) {
     }
     
     /* displaying the matrix B */
-
     printf("\nmatrix B is displayed as:\n");
     for (i = 0; i < p; i++) {
       for (j = 0; j < q; j++) {
