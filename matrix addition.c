@@ -51,7 +51,7 @@ int main(void) {
       printf("\n");
     }
 
-    /* Displaying the resutant of */
+    /* Displaying the resutant of addition of 2 matrice*/
     printf("\nhere's ur result\nMATRIX ADDITION\n");
     c[i][j] = 0;
     for (i = 0; i < m; i++) {
