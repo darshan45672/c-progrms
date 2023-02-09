@@ -42,6 +42,7 @@ int main(void) {
     }
     
     /* displaying the matrix B */
+
     printf("\nmatrix B is displayed as:\n");
     for (i = 0; i < p; i++) {
       for (j = 0; j < q; j++) {
@@ -49,6 +50,8 @@ int main(void) {
       }
       printf("\n");
     }
+
+    /* Displaying the resutant */
     printf("\nhere's ur result\nMATRIX ADDITION\n");
     c[i][j] = 0;
     for (i = 0; i < m; i++) {
