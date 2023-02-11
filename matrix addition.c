@@ -61,6 +61,8 @@ int main(void) {
         c[i][j] = a[i][j] + b[i][j];  // performing addition of elements in thier respective indices of thier matrix
       }
     }
+
+    /* Displaying the matrix */
     for (i = 0; i < m; i++) {
       for (j = 0; j < n; j++) {
         printf("%d\t", c[i][j]);
