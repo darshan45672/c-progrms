@@ -58,7 +58,7 @@ int main(void) {
     c[i][j] = 0;
     for (i = 0; i < m; i++) {
       for (j = 0; j < n; j++) {
-        c[i][j] = a[i][j] + b[i][j];
+        c[i][j] = a[i][j] + b[i][j];  //
       }
     }
     for (i = 0; i < m; i++) {
@@ -69,4 +69,5 @@ int main(void) {
     }
   }
  return 0;
+
 }
