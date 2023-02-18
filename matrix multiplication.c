@@ -6,6 +6,7 @@ int main(void) {
   // start of main
 
   int a[50][50], b[50][50], c[50][50];  // declaring the required array variables
+  
   int m, n, p, q, i, j, k;
   printf("enter the order of matrix A\n");
   scanf("%d%d", &m, &n);
