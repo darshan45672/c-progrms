@@ -12,7 +12,7 @@ int main(void) {
   /* taking input from the user*/
 
   printf("enter the order of matrix A\n"); // asking the user to enter the order of matrix A 
-  scanf("%d%d", &m, &n);
+  scanf("%d%d", &m, &n);  // storing the data in respective variables
   printf("enter the order of matrix B\n");
   scanf("%d%d", &p, &q);
   if (n != p) {
