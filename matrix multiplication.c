@@ -16,11 +16,12 @@ int main(void) {
 
   printf("enter the order of matrix B\n");  // asking the user to enter the order of matrix B
   scanf("%d%d", &p, &q);  // storing the data in respective variables
-  
+
   if (n != p) {
-    printf("SORRY!\nmatrix multiplication is not posible\n");
-  } else {
-    printf("enter the elements of matrix A:\n");
+    printf("SORRY!\nmatrix multiplication is not posible\n");  // checking the base condition required to perform multiplication of 2 matrixes if true display the appropriate messasge 
+  }
+  else {
+    printf("enter the elements of matrix A:\n");  // 
     for (i = 0; i < m; i++) {
       for (j = 0; j < n; j++) {
         scanf("%d", &a[i][j]);
