@@ -14,7 +14,7 @@ int main(void) {
   printf("enter the order of matrix A\n"); // asking the user to enter the order of matrix A 
   scanf("%d%d", &m, &n);  // storing the data in respective variables
 
-  printf("enter the order of matrix B\n");  // 
+  printf("enter the order of matrix B\n");  // asking the user to enter the order of matrix B
   scanf("%d%d", &p, &q);
   if (n != p) {
     printf("SORRY!\nmatrix multiplication is not posible\n");
