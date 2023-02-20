@@ -21,13 +21,14 @@ int main(void) {
     printf("SORRY!\nmatrix multiplication is not posible\n");  // checking the base condition required to perform multiplication of 2 matrixes if true display the appropriate messasge 
   }
   else {
-    printf("enter the elements of matrix A:\n");  // 
+
+    printf("enter the elements of matrix A:\n");  // take the elements for matrix A from the user 
     for (i = 0; i < m; i++) {
       for (j = 0; j < n; j++) {
         scanf("%d", &a[i][j]);
       }
     }
-    printf("enter the elements of matrix B\n");
+    printf("enter the elements of matrix B\n");  // taking the elements for matrix B from the user
     for (i = 0; i < p; i++) {
       for (j = 0; j < q; j++) {
         scanf("%d", &b[i][j]);
