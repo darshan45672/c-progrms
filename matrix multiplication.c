@@ -34,8 +34,11 @@ int main(void) {
         scanf("%d", &b[i][j]);
       }
     }
+
+    /* Display both the matrices */ 
+
     printf("matrix A is displayed as\n");
-    for (i = 0; i < m; i++) {
+    for (i = 0; i < m; i++) {  // displaying matrix A
       for (j = 0; j < n; j++) {
         printf("%d"
                "\t",
@@ -43,12 +46,14 @@ int main(void) {
       }
     }
     printf("\nmatrix B is displayed as\n");
-    for (i = 0; i < p; i++) {
+    for (i = 0; i < p; i++) {  // displaying matrix B
       for (j = 0; j < q; j++) {
         printf("%d\t", b[i][j]);
       }
     }
-    printf("\nHERE'S YOUR MATRIX MULTIPLICATION\n");
+
+    printf("\nHERE'S YOUR MATRIX MULTIPLICATION\n"); // performing matrix multiplication
+    
     for (i = 0; i < m; i++) {
       for (j = 0; j < q; j++) {
         c[i][j] = 0;
