@@ -62,6 +62,7 @@ int main(void) {
         }
       }
     }
+    
     printf("the resultant matrix is:\n"); // displaying the resultant matrix
     for (i = 0; i < m; i++) {
       for (j = 0; j < q; j++) {
