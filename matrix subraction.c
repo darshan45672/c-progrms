@@ -14,7 +14,7 @@ int main(void) {  // start of main
   scanf("%d%d", &m, &n); // storing the order entered by the user in respective variables
 
   printf("enter the order of matrix B:\n");  // taking order for matrix B
-  scanf("%d%d", &p, &q);
+  scanf("%d%d", &p, &q); // storing the order entered by the user in respective variables
   if (m != p || n != q) {
     printf("\t\tSORRy!\nmatrix addition not possible!\n");
     exit(0);
