@@ -11,7 +11,7 @@ int main(void) {  // start of main
   /* taking data ( input ) from the user */
 
   printf("enter the order of matrix A:\n"); // taking order for matrix A
-  scanf("%d%d", &m, &n); // storing the order entered
+  scanf("%d%d", &m, &n); // storing the order entered by the user in respective variables
   printf("enter the order of matrix B:\n");
   scanf("%d%d", &p, &q);
   if (m != p || n != q) {
