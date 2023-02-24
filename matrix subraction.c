@@ -10,8 +10,8 @@ int main(void) {  // start of main
 
   /* taking data ( input ) from the user */
 
-  printf("enter the order of matrix A:\n"); // taking order for matrix 
-  scanf("%d%d", &m, &n);
+  printf("enter the order of matrix A:\n"); // taking order for matrix A
+  scanf("%d%d", &m, &n); // storing the order entered
   printf("enter the order of matrix B:\n");
   scanf("%d%d", &p, &q);
   if (m != p || n != q) {
