@@ -27,6 +27,8 @@ int main(void) {  // start of main
         scanf("%d", &a[i][j]); // storing the user entered elements in their respective variable index 
       }
     }
+
+    /* */
     printf("enter the elements for matrix B:\n");
     for (i = 0; i < p; i++) {
       for (j = 0; j < q; j++) {
