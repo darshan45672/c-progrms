@@ -28,7 +28,7 @@ int main(void) {  // start of main
       }
     }
 
-    /* */
+    /* taking elements for matrix B */
     printf("enter the elements for matrix B:\n");
     for (i = 0; i < p; i++) {
       for (j = 0; j < q; j++) {
