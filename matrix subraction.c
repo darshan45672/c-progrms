@@ -32,7 +32,7 @@ int main(void) {  // start of main
     printf("enter the elements for matrix B:\n");
     for (i = 0; i < p; i++) {
       for (j = 0; j < q; j++) {
-        scanf("%d", &b[i][j]);  // storing the user entered elements in their respective variable
+        scanf("%d", &b[i][j]);  // storing the user entered elements in their respective variable index
       }
     }
     printf("matrix A is displayed as:\n");
