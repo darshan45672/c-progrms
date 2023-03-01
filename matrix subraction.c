@@ -37,6 +37,7 @@ int main(void) {  // start of main
     }
 
     /* Displaying the matrices entered by the user */
+    
     printf("matrix A is displayed as:\n");
     for (i = 0; i < m; i++) {
       for (j = 0; j < n; j++) {
