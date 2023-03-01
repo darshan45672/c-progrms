@@ -35,6 +35,8 @@ int main(void) {  // start of main
         scanf("%d", &b[i][j]);  // storing the user entered elements in their respective variable index
       }
     }
+
+    /* Displaying the */
     printf("matrix A is displayed as:\n");
     for (i = 0; i < m; i++) {
       for (j = 0; j < n; j++) {
