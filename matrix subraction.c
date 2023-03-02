@@ -41,7 +41,7 @@ int main(void) {  // start of main
     printf("matrix A is displayed as:\n");
     for (i = 0; i < m; i++) {
       for (j = 0; j < n; j++) {
-        printf("%d\t", a[i][j]);
+        printf("%d\t", a[i][j]);    // displaying the vlaues that are
       }
       printf("\n");
     }
