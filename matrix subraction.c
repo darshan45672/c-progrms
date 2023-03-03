@@ -48,7 +48,7 @@ int main(void) {  // start of main
     printf("\nmatrix B is displayed as:\n");
     for (i = 0; i < p; i++) {
       for (j = 0; j < q; j++) {
-        printf("%d\t", b[i][j]);
+        printf("%d\t", b[i][j]);   // 
       }
       printf("\n");
     }
