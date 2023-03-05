@@ -71,5 +71,7 @@ int main(void) {  // start of main
        printf("\n");
     }
   }
+
  return 0;
+ 
 }
