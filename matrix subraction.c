@@ -63,6 +63,7 @@ int main(void) {  // start of main
     }
 
     /* Displaying the resultant matrix */
+
     for (i = 0; i < m; i++) {
       for (j = 0; j < n; j++) {
         printf("%d\t", c[i][j]);
@@ -70,4 +71,5 @@ int main(void) {  // start of main
        printf("\n");
     }
   }
+ return 0;
 }
