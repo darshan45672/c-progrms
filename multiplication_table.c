@@ -8,7 +8,7 @@ int main()
   int num; // declaring the required variables
 
   printf("\nkrupaya apka mann pasanda number likiye:\t");   // taking user input 
-  scanf("%d",&num);
+  scanf("%d",&num); // storing the user entered data in variable num
   for(int i=1;i<=10;i++)
     {
       printf("%d X %d = %d\n",num,i,num*i);
