@@ -7,7 +7,7 @@ int main()
 
   int num; // declaring the required variables
 
-  printf("\nkrupaya apka mann pasanda number likiye:\t");
+  printf("\nkrupaya apka mann pasanda number likiye:\t");   // taking user input 
   scanf("%d",&num);
   for(int i=1;i<=10;i++)
     {
