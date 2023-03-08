@@ -11,6 +11,7 @@ int main()
   scanf("%d",&num); // storing the user entered data in variable num
 
   /* Displaying the multiplication table */
+  
   for(int i=1;i<=10;i++)
     {
       printf("%d X %d = %d\n",num,i,num*i);
