@@ -15,6 +15,8 @@ int main()
   for(int i=1;i<=10;i++)
     {
       printf("%d X %d = %d\n",num,i,num*i);  // displaying the tables
-    } // end of for loo
-  return 0;
+    } // end of for loop
+
+ return 0; // end of main
+ 
 }
