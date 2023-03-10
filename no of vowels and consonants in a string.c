@@ -4,7 +4,8 @@
 
 int main(void) {
   // start of main
-  char str[100];
+
+  char str[100]; //declaring the required variables
   int i=0, vowels=0,consonants=0;
   printf("enter any string:");
   gets(str);
