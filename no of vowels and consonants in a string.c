@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 int main(void) {
-  
+  // start of main
   char str[100];
   int i=0, vowels=0,consonants=0;
   printf("enter any string:");
