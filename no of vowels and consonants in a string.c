@@ -6,7 +6,8 @@ int main(void) {
   // start of main
 
   char str[100]; //declaring the required variables
-  int i=0, vowels=0,consonants=0;
+
+  int i=0, vowels=0,consonants=0;  // initialising the required counter variables
   printf("enter any string:");
   gets(str);
   while(str[i]!='\0'){
