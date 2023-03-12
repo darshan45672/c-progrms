@@ -11,11 +11,12 @@ int main(void) {
   
   /* taking the input from user */
   printf("enter any string:");
+  
   gets(str);  // using the built in function to read the user entered string
 
   while(str[i]!='\0'){
     
-  if(str[i]=='a'||str[i]=='e'||str[i]=='i'||str[i]=='o'||str[i]=='u'||str[i]=='A'||str[i]=='E'||str[i]=='I'||str[i]=='O'||str[i]=='U'){
+  if(str[i]=='a'||str[i]=='e'||str[i]=='i'||str[i]=='o'||str[i]=='u'||str[i]=='A'||str[i]=='E'||str[i]=='I'||str[i]=='O'||str[i]=='U'){   // 
     vowels++;
   }
     else{
