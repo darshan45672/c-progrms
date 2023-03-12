@@ -10,8 +10,9 @@ int main(void) {
   int i = 0, vowels = 0, consonants = 0;  // initialising the required counter variables
   
   /* taking the input from user */
-  printf("enter any string:");
   
+  printf("enter any string:");
+
   gets(str);  // using the built in function to read the user entered string
 
   while(str[i]!='\0'){
