@@ -11,7 +11,6 @@ int main(void) {
   
   /* taking the input from user */
   printf("enter any string:");
-
   gets(str);  // using the built in function to read the user entered string
 
   while(str[i]!='\0'){
