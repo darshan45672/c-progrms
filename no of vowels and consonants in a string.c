@@ -7,7 +7,8 @@ int main(void) {
 
   char str[100]; //declaring the required variables
 
-  int i = 0, vowels = 0, consonants = 0;  // initialising the required counter variables
+  int i = 0, vowels = 0;
+  int consonants = 0;  // initialising the required counter variables
   
   /* taking the input from user */
   printf("enter any string:");
