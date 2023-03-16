@@ -18,7 +18,7 @@ int main(void) {
     
   if(str[i]=='a'||str[i]=='e'||str[i]=='i'||str[i]=='o'||str[i]=='u'||str[i]=='A'||str[i]=='E'||str[i]=='I'||str[i]=='O'||str[i]=='U'){   // checking wether the character or letter is a vowel or not
     
-    vowels ++ ;  // increment vowel count
+    vowels ++ ;  // increment vowelcount
   
   }
     else{
