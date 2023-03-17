@@ -22,7 +22,7 @@ int main(void) {
   
   }
     else{
-      consonants++;
+      consonants++;   // else increment consonants by one
     }i++;
   }
   printf("no of vowels is %d\n",vowels);
