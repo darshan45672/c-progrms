@@ -24,7 +24,7 @@ int main(void) {
     }i++;
   }
 
-  /* displaying the number of vowels and conso*/
+  /* displaying the number of vowels and consonants */
   printf("no of vowels is %d\n",vowels);
   printf("no of consonats os %d\n",consonants);
 }
