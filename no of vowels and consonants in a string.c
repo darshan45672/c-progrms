@@ -23,6 +23,8 @@ int main(void) {
       consonants++;   // else increment consonants by one
     }i++;
   }
+
+  /* displaying the */
   printf("no of vowels is %d\n",vowels);
   printf("no of consonats os %d\n",consonants);
 }
