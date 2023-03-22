@@ -29,4 +29,5 @@ int main(void) {
   printf("no of vowels is %d\n",vowels); 
   printf("no of consonats os %d\n",consonants);
 
+ // end 
 }
