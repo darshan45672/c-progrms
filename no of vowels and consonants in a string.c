@@ -30,4 +30,5 @@ int main(void) {
   printf("no of consonats os %d\n",consonants);
 
  // end of main
+ 
 }
