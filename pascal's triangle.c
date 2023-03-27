@@ -7,7 +7,7 @@ int main(void) {
 
   int rows, coef = 1, space, i, j; // declaring the required variables
 
-  printf("enter the rows:\n"); // taking input from the 
+  printf("enter the rows:\n"); // taking input from the user
   scanf("%d", &rows);
   for (i = 0; i < rows; i++) {
     for (space = 1; space <= rows - i; space++) {
