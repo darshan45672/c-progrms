@@ -3,6 +3,8 @@
 #include <stdio.h>
 
 int main(void) {
+  // start of main
+  
   int rows, coef = 1, space, i, j;
   printf("enter the rows:\n");
   scanf("%d", &rows);
