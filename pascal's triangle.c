@@ -6,6 +6,7 @@ int main(void) {
   // start of main
 
   int rows, coef = 1, space, i, j; // declaring the required variables
+  
   printf("enter the rows:\n");
   scanf("%d", &rows);
   for (i = 0; i < rows; i++) {
