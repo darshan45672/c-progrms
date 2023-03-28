@@ -8,7 +8,8 @@ int main(void) {
   int rows, coef = 1, space, i, j; // declaring the required variables
 
   printf("enter the rows:\n"); // taking input from the user
-  scanf("%d", &rows);
+  
+  scanf("%d", &rows);  // storing the data entered by the user into respective variable
   for (i = 0; i < rows; i++) {
     for (space = 1; space <= rows - i; space++) {
       printf(" ");
