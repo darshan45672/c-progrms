@@ -11,7 +11,7 @@ int main(void) {
   
   scanf("%d", &rows);  // storing the data entered by the user into respective variable
 
-  for (i = 0; i < rows; i++) { 
+  for ( int i = 0; i < rows; i++) { 
     for (space = 1; space <= rows - i; space++) {
       printf(" ");
     }
