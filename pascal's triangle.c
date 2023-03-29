@@ -12,7 +12,7 @@ int main(void) {
   scanf("%d", &rows);  // storing the data entered by the user into respective variable
 
   for ( int i = 0; i < rows; i++) { // traversing the row 
-    for (space = 1; space <= rows - i; space++) {
+    for (space = 1; space <= rows - i; space++) {  // traversing the row element
 
       printf(" ");
       
