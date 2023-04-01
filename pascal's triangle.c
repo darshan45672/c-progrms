@@ -14,10 +14,9 @@ int main(void) {
   for ( int i = 0; i < rows; i++) { // traversing the row 
     for (space = 1; space <= rows - i; space++) {  // traversing the row elements
 
-      printf(" ");
+      printf(" "); //
       
     }
-    
     for (j = 0; j <= i; j++) {
       if (j == 0 || i == 0) {
         coef = 1;
