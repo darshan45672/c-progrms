@@ -17,8 +17,8 @@ int main(void) {
       printf(" "); // adding a space in beteween the elements
       
     }
-    
-    //
+
+    // calculating the pascaal coefficient 
     for (j = 0; j <= i; j++) {
       if (j == 0 || i == 0) {
         coef = 1;
