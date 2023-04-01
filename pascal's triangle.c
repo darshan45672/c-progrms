@@ -14,7 +14,7 @@ int main(void) {
   for ( int i = 0; i < rows; i++) { // traversing the row 
     for (space = 1; space <= rows - i; space++) {  // traversing the row elements
 
-      printf(" "); //
+      printf(" "); // adding a space in beteween the 
       
     }
     for (j = 0; j <= i; j++) {
