@@ -17,6 +17,7 @@ int main(void) {
       printf(" ");
       
     }
+    
     for (j = 0; j <= i; j++) {
       if (j == 0 || i == 0) {
         coef = 1;
