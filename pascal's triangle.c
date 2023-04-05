@@ -30,5 +30,7 @@ int main(void) {
       printf("%4d", coef); // displaying the coefficient on the console
     }
     printf("\n");
-  }
+  } // end of for
+
+ return 0;
 }
