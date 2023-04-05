@@ -26,8 +26,8 @@ int main(void) {
       } else {
         coef = coef * (i - j + 1) / j;
       }
-      
-      printf("%4d", coef);
+
+      printf("%4d", coef); // displaying the coefficient on the console
     }
     printf("\n");
   }
