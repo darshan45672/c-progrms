@@ -32,5 +32,6 @@ int main(void) {
     printf("\n");
   } // end of for
 
- return 0;
+ return 0;  // end of main
+ 
 }
