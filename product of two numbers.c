@@ -10,5 +10,6 @@ int main(void) {
   scanf("%d%d",&a,&b);  // storing the user entered values in respective varaible
   printf("product is %d",a*b); // displaying the product of these numbers
 
- return 0 ;
+ return 0 ; // end of main
+ 
 }
