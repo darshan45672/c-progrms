@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main(void) {
+int main(void) { // start of main
   int i, n, a[100], even = 0;
   printf("enter the no. of elements\n");
   scanf("%d", &n);
