@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 int main(void) { // start of main
-  int i, n, a[100], even = 0;
+
+  int i, n, a[100], even = 0; // declaring the required variables
   printf("enter the no. of elements\n");
   scanf("%d", &n);
   printf("enter %d elements:\n", n);
