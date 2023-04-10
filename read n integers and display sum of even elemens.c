@@ -19,6 +19,10 @@ int main(void) { // start of main
     if (a[i] % 2 == 0) { // if even then add
       even = even + a[i]; // adding the even numbers
     }
-  } // end of 
-  printf("sum of even integers is %d\n", even);
+  } // end of loop
+
+  printf("sum of even integers is %d\n", even); // displaying  the sum of even numbers in user given array
+
+ return 0;
+ 
 }
