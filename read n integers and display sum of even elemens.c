@@ -13,11 +13,12 @@ int main(void) { // start of main
   for (i = 0; i < n; i++) { // start of loop
     scanf("%d", &a[i]); // staoring the user entered element in its respective index
   } // end of loop
-  
+
+  /* Checking wether the element stored in the array is even or odd */
   for (i = 0; i < n; i++) {
-    if (a[i] % 2 == 0) {
-      even = even + a[i];
+    if (a[i] % 2 == 0) { // if even then add
+      even = even + a[i]; // adding the even numbers
     }
-  }
+  } // end of 
   printf("sum of even integers is %d\n", even);
 }
