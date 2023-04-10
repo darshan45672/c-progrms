@@ -23,6 +23,6 @@ int main(void) { // start of main
 
   printf("sum of even integers is %d\n", even); // displaying  the sum of even numbers in user given array
 
- return 0;
- 
+ return 0; // end of main
+
 }
