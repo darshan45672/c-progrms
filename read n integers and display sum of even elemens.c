@@ -10,9 +10,10 @@ int main(void) { // start of main
   scanf("%d", &n); // storing the user entered data in respective variable
 
   printf("enter %d elements:\n", n); // taking the elements to the array from the user using loop 
-  for (i = 0; i < n; i++) {
+  for (i = 0; i < n; i++) { // start of loop
     scanf("%d", &a[i]); // staoring the user entered element in its respective index
-  }
+  } // end of loop
+  
   for (i = 0; i < n; i++) {
     if (a[i] % 2 == 0) {
       even = even + a[i];
