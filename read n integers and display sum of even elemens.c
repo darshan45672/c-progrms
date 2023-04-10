@@ -11,7 +11,7 @@ int main(void) { // start of main
 
   printf("enter %d elements:\n", n); // taking the elements to the array from the user using loop 
   for (i = 0; i < n; i++) {
-    scanf("%d", &a[i]);
+    scanf("%d", &a[i]); // staoring the user entered element in its respective index
   }
   for (i = 0; i < n; i++) {
     if (a[i] % 2 == 0) {
