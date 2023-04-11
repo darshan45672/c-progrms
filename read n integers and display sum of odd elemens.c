@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 int main(void) {
+  
   int i, n, a[100], odd = 0;
   printf("enter the number of elements:\n");
   scanf("%d", &n);
