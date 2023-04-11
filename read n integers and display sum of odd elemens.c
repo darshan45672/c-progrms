@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 int main(void) {
-  
-  int i, n, a[100], odd = 0;
+
+  int i, n, a[100], odd = 0;  // declaring the required va
   printf("enter the number of elements:\n");
   scanf("%d", &n);
   printf("enter %d elements:\n", n);
