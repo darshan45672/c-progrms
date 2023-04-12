@@ -5,8 +5,8 @@
 int main(void) {
 
   int i, n, a[100], odd = 0;  // declaring the required variables
-  
-  printf("enter the number of elements:\n");
+
+  printf("enter the number of elements:\n"); // taking input from the user
   scanf("%d", &n);
   printf("enter %d elements:\n", n);
   for (i = 0; i < n; i++) {
