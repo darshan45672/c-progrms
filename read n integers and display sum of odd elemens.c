@@ -7,7 +7,7 @@ int main(void) {
   int i, n, a[100], odd = 0;  // declaring the required variables
 
   printf("enter the number of elements:\n"); // taking input from the user
-  scanf("%d", &n);
+  scanf("%d", &n);  // storing the user entered data 
   printf("enter %d elements:\n", n);
   for (i = 0; i < n; i++) {
     scanf("%d", &a[i]);
