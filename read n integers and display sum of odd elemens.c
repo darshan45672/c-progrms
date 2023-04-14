@@ -10,7 +10,8 @@ int main(void) {
   scanf("%d", &n);  // storing the user entered number in a variable
 
   printf("enter %d elements:\n", n); // taking the elements from the user
-  for (i = 0; i < n; i++) {
+
+  for (i = 0; i < n; i++) {  // start of for loop
     scanf("%d", &a[i]);
   }
   for (i = 0; i < n; i++) {
