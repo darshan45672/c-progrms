@@ -9,7 +9,7 @@ int main(void) {
   printf("enter the number of elements:\n"); // taking number of elementsas a input from the user
   scanf("%d", &n);  // storing the user entered number in a variable
 
-  printf("enter %d elements:\n", n); 
+  printf("enter %d elements:\n", n); // taking the elements from the user
   for (i = 0; i < n; i++) {
     scanf("%d", &a[i]);
   }
