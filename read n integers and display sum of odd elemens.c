@@ -14,6 +14,7 @@ int main(void) {
   for (i = 0; i < n; i++) {  // start of for loop
     scanf("%d", &a[i]); // storing the user entered number in a array 
   } // end of for loop
+  
   for (i = 0; i < n; i++) {
     if (a[i] % 2 == 1) {
       odd = odd + a[i];
