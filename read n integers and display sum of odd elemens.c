@@ -24,4 +24,6 @@ int main(void) {
   }// end of for
 
   printf("sum of odd integers is %d\n", odd); // displaying the sum of odd numbers
+ 
+ return 0; //
 }
