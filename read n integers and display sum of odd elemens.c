@@ -16,9 +16,12 @@ int main(void) {
   } // end of for loop
 
   for (i = 0; i < n; i++) {  // start of for loop
+
     if (a[i] % 2 == 1) {
       odd = odd + a[i]; // calculating the sum of odd numbers
     } // end of if
-  }
-  printf("sum of odd integers is %d\n", odd);
+
+  }// end of for
+
+  printf("sum of odd integers is %d\n", odd); // displaying the sum of odd numbers
 }
