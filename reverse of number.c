@@ -3,7 +3,8 @@
 
 #include <stdio.h>
 
-int main(void) {
+int main(void) { // start of main
+
   int num, temp;
   printf("enter the number:\n");
   scanf("%d", &num);
