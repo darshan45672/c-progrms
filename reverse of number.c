@@ -5,7 +5,8 @@
 
 int main(void) { // start of main
 
-  int num, temp;
+  int num, temp; // declaring the required varaibles
+  
   printf("enter the number:\n");
   scanf("%d", &num);
   printf("the reversed number is:\n");
