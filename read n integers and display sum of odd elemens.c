@@ -17,7 +17,7 @@ int main(void) {
 
   for (i = 0; i < n; i++) {  // start of for loop
 
-    if (a[i] % 2 == 1) {
+    if (a[i] % 2 == 1) { // checking wether the number is odd
       odd = odd + a[i]; // calculating the sum of odd numbers
     } // end of if
 
