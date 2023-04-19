@@ -8,7 +8,7 @@ int main(void) { // start of main
   int num, temp; // declaring the required varaibles
 
   printf("enter the number:\n"); // taking input from the user
-  scanf("%d", &num); // storing the user entered data in a var
+  scanf("%d", &num); // storing the user entered data in a variab
   printf("the reversed number is:\n");
   while (num != 0) {
     temp = num % 10;
