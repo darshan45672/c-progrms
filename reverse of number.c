@@ -20,5 +20,4 @@ int main(void) { // start of main
   } // end of while loop
 
  return 0; // end of main
- 
 }
