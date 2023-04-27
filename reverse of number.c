@@ -18,4 +18,7 @@ int main(void) { // start of main
     printf("%d", temp);
     num = num / 10;
   } // end of while loop
+
+ return 0; // end of main
+ 
 }
