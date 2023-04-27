@@ -11,6 +11,7 @@ int main(void) { // start of main
   scanf("%d", &num); // storing the user entered data in a variable
 
   printf("the reversed number is:\n"); // displaying the reversed number
+  
   while (num != 0) {
     temp = num % 10;
     printf("%d", temp);
