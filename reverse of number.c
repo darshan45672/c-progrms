@@ -13,9 +13,9 @@ int main(void) { // start of main
   printf("the reversed number is:\n"); // displaying the reversed number
 
   /* performing reversing operation*/
-  while (num != 0) {
+  while (num != 0) { //  start of while
     temp = num % 10;
     printf("%d", temp);
     num = num / 10;
-  }
+  } // end of while loop
 }
