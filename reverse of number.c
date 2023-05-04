@@ -1,6 +1,5 @@
 /* Program to find reverse of a number entered by the user*/
 
-
 #include <stdio.h>
 
 int main(void) { // start of main
@@ -20,5 +19,5 @@ int main(void) { // start of main
   } // end of while loop
 
  return 0; // end of main
- 
+
 }
