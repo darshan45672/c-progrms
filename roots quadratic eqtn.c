@@ -2,7 +2,10 @@
 
 #include <math.h>
 #include <stdio.h>
-int main(void) {
+
+
+int main(void) {  // start of main
+
   float a, b, c, d, real, img, root1, root2;
   printf("enter the coeffient af a,b,c:\n");
   scanf("%f%f%f", &a, &b, &c);
