@@ -6,7 +6,8 @@
 
 int main(void) {  // start of main
 
-  float a, b, c, d, real, img, root1, root2;
+
+  float a, b, c, d, real, img, root1, root2;  // declaring the required variables
   printf("enter the coeffient af a,b,c:\n");
   scanf("%f%f%f", &a, &b, &c);
   if (a == 0 && b == 0) {
