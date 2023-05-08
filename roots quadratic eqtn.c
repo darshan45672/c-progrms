@@ -13,6 +13,7 @@ int main(void) {  // start of main
   
   printf("enter the coeffient af a,b,c:\n");
   scanf("%f%f%f", &a, &b, &c);
+  
   if (a == 0 && b == 0) {
     printf("soory!\n roots cannot be computed\n");
     exit(0);
