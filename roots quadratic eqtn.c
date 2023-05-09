@@ -11,7 +11,7 @@ int main(void) {  // start of main
 
   /* taking input from the user */ 
   
-  printf("enter the coeffient af a,b,c:\n");
+  printf("enter the coeffient af a,b,c:\n");  // taking the ccoefficirnts of a,b,c fromt the user
   scanf("%f%f%f", &a, &b, &c);
   
   if (a == 0 && b == 0) {
