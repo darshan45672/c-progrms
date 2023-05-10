@@ -12,7 +12,7 @@ int main(void) {  // start of main
   /* taking input from the user */ 
   
   printf("enter the coeffient of a,b,c:\n");  // taking the ccoefficirnts of a,b,c fromt the user
-  scanf("%f%f%f", &a, &b, &c);
+  scanf("%f%f%f", &a, &b, &c); // storing the user entered data
   
   if (a == 0 && b == 0) {
     printf("soory!\n roots cannot be computed\n");
