@@ -20,7 +20,7 @@ int main(void) {  // start of main
     exit(0);
   }
 
-  /* checking wether only the coefficent of a is */
+  /* checking wether only the coefficent of a is equal */
   if (a == 0) {
     printf("roots are linear\n");
     root1 = -c / b;
