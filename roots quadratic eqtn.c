@@ -15,7 +15,6 @@ int main(void) {  // start of main
   scanf("%f%f%f", &a, &b, &c); // storing the user entered data in their respective variable
 
   /* Checking the initial base conditions */
-  
   if (a == 0 && b == 0) {
     printf("soory!\n roots cannot be computed\n");
     exit(0);
