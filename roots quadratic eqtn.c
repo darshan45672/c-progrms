@@ -19,6 +19,8 @@ int main(void) {  // start of main
     printf("soory!\n roots cannot be computed\n");  // displaying the relavent message
     exit(0);
   }
+
+  /* checking wether only the coefficent of a is */
   if (a == 0) {
     printf("roots are linear\n");
     root1 = -c / b;
