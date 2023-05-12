@@ -16,7 +16,7 @@ int main(void) {  // start of main
 
   /* Checking the initial base conditions */
   if (a == 0 && b == 0) {
-    printf("soory!\n roots cannot be computed\n");
+    printf("soory!\n roots cannot be computed\n");  // displaying the relavent
     exit(0);
   }
   if (a == 0) {
