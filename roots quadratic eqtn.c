@@ -23,7 +23,7 @@ int main(void) {  // start of main
   /* checking wether only the coefficent of a is equal to 0 */
   if (a == 0) {
     printf("roots are linear\n");  // if true then display roots are linear
-    root1 = -c / b; // calculating the roots
+    root1 = -c / b; // calculating the roots and assigning the calculated result to root1
     printf("root = %f\n", root1);
     exit(0);
   }
