@@ -20,11 +20,11 @@ int main(void) {  // start of main
     exit(0);
   }
 
-  /* checking wether only the coefficent of a is equal to 0*/
+  /* checking wether only the coefficent of a is equal to 0 */
   if (a == 0) {
-    printf("roots are linear\n");
+    printf("roots are linear\n");  // if true then display roots are linear
     root1 = -c / b;
-    printf("root=%f\n", root1);
+    printf("root = %f\n", root1);
     exit(0);
   }
   d = b * b - 4 * a * c;
