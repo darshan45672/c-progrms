@@ -24,7 +24,7 @@ int main(void) {  // start of main
   if (a == 0) {
     printf("roots are linear\n");  // if true then display roots are linear
     root1 = -c / b; // calculating the roots and assigning the calculated result to variable root1
-    printf("root = %f\n", root1);
+    printf("root = %f\n", root1); // display the root
     exit(0);
   }
   d = b * b - 4 * a * c;
