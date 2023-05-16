@@ -28,7 +28,7 @@ int main(void) {  // start of main
     exit(0); //exit from execution
   }
   
-  d = b * b - 4 * a * c;
+  d = b * b - 4 * a * c;  // calculating d
   if (d == 0) {
     root1 = -b / (c * a);
     printf("roots are real and equal\n root1=root2=%f", root1);
