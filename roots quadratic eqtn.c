@@ -41,9 +41,10 @@ int main(void) {  // start of main
   } else {
     printf("roots are complex/imaginary\n");
     real = -b / (2 * a);
+    
     img = sqrt(fabs(d)) / (2 * a);
     printf("root1=%f + i%f\n", real, img);
     printf("root2=%f - i%f\n", real, img);
   }
-  
+
 }
