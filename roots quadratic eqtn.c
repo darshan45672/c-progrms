@@ -30,7 +30,7 @@ int main(void) {  // start of main
   d = b * b - 4 * a * c;  // calculating discriminent
 
   if (d == 0) { //checking wether discriminent is 0
-    root1 = -b / (c * a);
+    root1 = -b / (c * a); // calculate the root if true
     printf("roots are real and equal\n root1=root2=%f", root1);
   } else if (d > 0) {
     root1 = (-b + sqrt(d)) / (2 * a);
