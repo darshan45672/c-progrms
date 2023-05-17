@@ -27,7 +27,6 @@ int main(void) {  // start of main
     printf("root = %f\n", root1); // display the root
     exit(0); //exit from execution
   }
-  
   d = b * b - 4 * a * c;  // calculating d
 
   if (d == 0) {
