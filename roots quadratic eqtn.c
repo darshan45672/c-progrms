@@ -32,7 +32,8 @@ int main(void) {  // start of main
   if (d == 0) { //checking wether discriminent is 0
     root1 = -b / (c * a); // calculate the root if true
     printf("roots are real and equal\n root1=root2=%f", root1); // display the calculated root
-  } else if (d > 0) {
+
+  } else if (d > 0) {  // checking wether discriminent is greater than 0
     root1 = (-b + sqrt(d)) / (2 * a);
     root2 = (-b - sqrt(d)) / (2 * a);
     printf("roots are real and distinct\n root1=%f\n root2=%f\n", root1, root2);
