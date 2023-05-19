@@ -37,7 +37,8 @@ int main(void) {  // start of main
      // if true then calculate root1 and root2
     root1 = (-b + sqrt(d)) / (2 * a); 
     root2 = (-b - sqrt(d)) / (2 * a);
-    printf("roots are real and distinct\n root1=%f\n root2=%f\n", root1, root2);
+
+    printf("roots are real and distinct\n root1=%f\n root2=%f\n", root1, root2);  // display root1 and root2
   } else {
     printf("roots are complex/imaginary\n");
     real = -b / (2 * a);
