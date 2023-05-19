@@ -42,8 +42,8 @@ int main(void) {  // start of main
 
   } else {  
     // else display the appropriate message
-    printf("roots are complex/imaginary\n");
-    real = -b / (2 * a);
+    printf("roots are complex/imaginary\n"); 
+    real = -b / (2 * a);  // caalculating the imaginary part of the root
     
     img = sqrt(fabs(d)) / (2 * a);
     printf("root1=%f + i%f\n", real, img);
