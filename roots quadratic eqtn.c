@@ -48,7 +48,7 @@ int main(void) {  // start of main
     img = sqrt(fabs(d)) / (2 * a); // calculate the imaginary part
     
     /* display the roots */
-    printf("root1=%f + i%f\n", real, img);
+    printf("root1=%f + i%f\n", real, img); // display root 1
     printf("root2=%f - i%f\n", real, img);
   }
 
