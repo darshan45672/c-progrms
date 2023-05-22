@@ -51,5 +51,4 @@ int main(void) {  // start of main
     printf("root1=%f + i%f\n", real, img); // display root 1
     printf("root2=%f - i%f\n", real, img); //display root 2
   }
-
 }
