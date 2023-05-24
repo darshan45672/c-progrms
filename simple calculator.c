@@ -8,7 +8,7 @@ int main(void) {  //start of main
   char op;
 
   /* taking input from the user */
-  printf("\nEnter a valid artematic expression:\n"); // taking a valid 
+  printf("\nEnter a valid artematic expression:\n"); // asking user to enter a valid 
   scanf("%d%c%d", &num1, &op, &num2);
   switch (op) {
   case '+':
