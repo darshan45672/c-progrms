@@ -2,10 +2,13 @@
 
 #include <stdio.h>
 
-int main(void) {
-  int num1, num2, res;
+int main(void) {  //start of main
+
+  int num1, num2, res; // declaring the required variables
   char op;
-  printf("\nenter a valid artematic expression:\n");
+
+  /* taking input from the user */
+  printf("\nEnter a valid artematic expression:\n");
   scanf("%d%c%d", &num1, &op, &num2);
   switch (op) {
   case '+':
