@@ -9,7 +9,8 @@ int main(void) {  //start of main
 
   /* taking input from the user */
   printf("\nEnter a valid artematic expression:\n"); // asking user to enter a valid arthematic expression
-  scanf("%d%c%d", &num1, &op, &num2); // storing the user entered data in thier respective 
+  scanf("%d%c%d", &num1, &op, &num2); // storing the user entered data in thier respective variable
+  
   switch (op) {
   case '+':
     res = num1 + num2;
