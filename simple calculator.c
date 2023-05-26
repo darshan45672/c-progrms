@@ -11,8 +11,7 @@ int main(void) {  //start of main
   printf("\nEnter a valid artematic expression:\n"); // asking user to enter a valid arthematic expression
   scanf("%d%c%d", &num1, &op, &num2); // storing the user entered numbers and the operator in thier respective variable
   
-  // switching the opert
-  switch (op) {
+  switch (op) { // switching the opertor
   case '+':
     res = num1 + num2;
     printf("\nsum=%d", res);
