@@ -13,7 +13,7 @@ int main(void) {  //start of main
   
   switch (op) { // switching the opertor
   case '+':  // if the operator is +
-    res = num1 + num2;
+    res = num1 + num2; // if true calculate the result
     printf("\nsum=%d", res);
     break;
   case '-':
