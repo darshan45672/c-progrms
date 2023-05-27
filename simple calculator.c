@@ -12,7 +12,7 @@ int main(void) {  //start of main
   scanf("%d%c%d", &num1, &op, &num2); // storing the user entered numbers and the operator in thier respective variable
   
   switch (op) { // switching the opertor
-  case '+':
+  case '+':  // if the operator is +
     res = num1 + num2;
     printf("\nsum=%d", res);
     break;
