@@ -16,6 +16,7 @@ int main(void) {  //start of main
     res = num1 + num2; // if true calculate the result
     printf("\nsum=%d", res);
     break;
+    
   case '-':
     res = num1 - num2;
     printf("\ndifference=%d", res);
