@@ -18,7 +18,7 @@ int main(void) {  //start of main
     break;
 
   case '-':  // if the operator is -
-    res = num1 - num2;
+    res = num1 - num2; // if true
     printf("\ndifference=%d", res);
     break;
   case '*':
