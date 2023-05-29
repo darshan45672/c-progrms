@@ -17,7 +17,7 @@ int main(void) {  //start of main
     printf("\nsum=%d", res); // displaying the calculated result
     break;
 
-  case '-':
+  case '-':  // if the operator 
     res = num1 - num2;
     printf("\ndifference=%d", res);
     break;
