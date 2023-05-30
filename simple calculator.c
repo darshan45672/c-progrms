@@ -19,7 +19,7 @@ int main(void) {  //start of main
 
   case '-':  // if the operator is -
     res = num1 - num2; // if true then claculate the result
-    printf("\ndifference = %d", res);  // diplay the calculate result
+    printf("\ndifference = %d", res);  // diplay the calculated result
     break;
 
   case '*':
