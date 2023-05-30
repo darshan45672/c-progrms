@@ -21,6 +21,7 @@ int main(void) {  //start of main
     res = num1 - num2; // if true then claculate the result
     printf("\ndifference = %d", res);  // diplay the result
     break;
+    
   case '*':
     res = num1 * num2;
     printf("\nproduct=%d", res);
