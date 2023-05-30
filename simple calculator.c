@@ -12,27 +12,28 @@ int main(void) {  //start of main
   scanf("%d%c%d", &num1, &op, &num2); // storing the user entered numbers and the operator in thier respective variable
   
   switch (op) { // switching the opertor
-  case '+':  // if the operator is +
-    res = num1 + num2; // if true then calculate the result
-    printf("\nsum=%d", res); // displaying the calculated result
-    break;
 
-  case '-':  // if the operator is -
-    res = num1 - num2; // if true then claculate the result
-    printf("\ndifference = %d", res);  // diplay the calculated result
-    break;
+   case '+':  // if the operator is +
+     res = num1 + num2; // if true then calculate the result
+     printf("\nsum=%d", res); // displaying the calculated result
+     break;
 
-  case '*':
-    res = num1 * num2;
-    printf("\nproduct=%d", res);
-    break;
-  case '/':
-    if (num2 == 0) {
-      printf("\nreault is not defined!");
-    } else
-    {
-      res = num1 / num2;
-      printf("\nquotient=%d", res);
-    }
+   case '-':  // if the operator is -
+     res = num1 - num2; // if true then claculate the result
+     printf("\ndifference = %d", res);  // diplay the calculated result
+     break;
+
+   case '*':
+     res = num1 * num2;
+     printf("\nproduct=%d", res);
+     break;
+   case '/':
+     if (num2 == 0) {
+       printf("\nreault is not defined!");
+     } else
+     {
+       res = num1 / num2;
+       printf("\nquotient=%d", res);
+     }
   }
 }
