@@ -23,7 +23,7 @@ int main(void) {  //start of main
      printf("\ndifference = %d", res);  // diplay the calculated result
      break;
 
-   case '*': // if the operator i *
+   case '*': // if the operator is *
      res = num1 * num2;
      printf("\nproduct=%d", res);
      break;
