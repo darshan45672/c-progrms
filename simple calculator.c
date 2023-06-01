@@ -24,7 +24,7 @@ int main(void) {  //start of main
      break;
 
    case '*': // if the operator is *
-     res = num1 * num2; // if true then calculate the 
+     res = num1 * num2; // if true then calculate the result
      printf("\nproduct=%d", res);
      break;
    case '/':
