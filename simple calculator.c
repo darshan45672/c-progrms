@@ -27,6 +27,7 @@ int main(void) {  //start of main
      res = num1 * num2; // if true then calculate the result
      printf("\nproduct=%d", res); // display the calculated result
      break;
+     
    case '/':
      if (num2 == 0) {
        printf("\nreault is not defined!");
