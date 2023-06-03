@@ -29,7 +29,7 @@ int main(void) {  //start of main
      break;
 
    case '/': // if the operator is /
-     if (num2 == 0) {
+     if (num2 == 0) {  // checking if the num2 
        printf("\nreault is not defined!");
      } else
      {
