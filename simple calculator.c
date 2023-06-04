@@ -34,7 +34,8 @@ int main(void) {  //start of main
      } else{
        res = num1 / num2;
        printf("\nquotient=%d", res);
+       
      }
-     
+
   }
 }
