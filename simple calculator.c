@@ -31,7 +31,7 @@ int main(void) {  //start of main
    case '/': // if the operator is /
      if (num2 == 0) {  // checking if num2 is 0 
        printf("\nreault is not defined!");  // display the appropriate message
-     } else{  // if false than 
+     } else{  // if false than calculate the result
        res = num1 / num2;
        printf("\nquotient=%d", res);
        
