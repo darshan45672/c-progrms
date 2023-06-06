@@ -32,7 +32,7 @@ int main(void) {  //start of main
      if (num2 == 0) {  // checking if num2 is 0 
        printf("\nreault is not defined!");  // display the appropriate message
      } else{  // if false than calculate the result
-       res = num1 / num2; // calculate the result
+       res = num1 / num2; // calculate the resul
        printf("\nquotient=%d", res);
        
      }
