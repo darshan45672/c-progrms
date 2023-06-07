@@ -5,7 +5,7 @@
 int main(void) {  //start of main
 
   int num1, num2, res; // declaring the required variables
-  char op;
+  char op; 
 
   /* taking input from the user */
   printf("\nEnter a valid artematic expression:\n"); // asking user to enter a valid arthematic expression
