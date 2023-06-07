@@ -36,5 +36,6 @@ int main(void) {  //start of main
        printf("\nquotient=%d", res); // display the result
      }
      break;
+     
   }
 }
