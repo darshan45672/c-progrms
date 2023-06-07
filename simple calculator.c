@@ -36,6 +36,7 @@ int main(void) {  //start of main
        printf("\nquotient=%d", res); // display the result
      }
      break;
-     
+
+    default: printf("Choose a valid choice")
   }
 }
