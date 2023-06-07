@@ -35,6 +35,6 @@ int main(void) {  //start of main
        res = num1 / num2; // calculate the result
        printf("\nquotient=%d", res); // display the result
      }
-
+     break;
   }
 }
