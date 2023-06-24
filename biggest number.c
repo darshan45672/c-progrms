@@ -20,4 +20,5 @@ int main(void) {
   } // end of for
   
   printf("biggest number is %d", big);  // displaying the value stored in big
+  
 }
