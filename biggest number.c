@@ -17,6 +17,7 @@ int main(void) {
         big = a[i];            // if true then a[i] is assigned as big
       }
     }
-  }
+  } // end of for
+  
   printf("biggest number is %d", big);  // displaying the value stored in big
 }
