@@ -10,6 +10,7 @@ int main(void) {
   for (i = 0; i < n; i++) {
     scanf("%d", &a[i]);                // asking the user to enter n elemnts and storing the entered elements array
   }
+  
   for (i = 0; i < n; i++) {
     big = a[0];        // initialising a[0] as big
     for (i = 0; i < n; i++) {
@@ -20,5 +21,5 @@ int main(void) {
   } // end of for
   
   printf("biggest number is %d", big);  // displaying the value stored in big
-  
+
 }
