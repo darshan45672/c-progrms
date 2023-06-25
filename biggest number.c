@@ -23,4 +23,5 @@ int main(void) {
   printf("biggest number is %d", big);  // displaying the value stored in big
 
 return 0;
+
 }
