@@ -3,7 +3,7 @@
 
 int main(void) {  // start of main
 
-  int sub1,sub2,sub3,sub4,sub5,sub6,sub7,sub8,sub9;
+  int sub1,sub2,sub3,sub4,sub5,sub6,sub7,sub8,sub9; // declare the required variables
   float SGPA=0;
   printf("enter the subject grades of SEM3\n");
   scanf("%d%d%d%d%d%d%d%d%d",&sub1,&sub2,&sub3,&sub4,&sub5,&sub6,&sub7,&sub8);
