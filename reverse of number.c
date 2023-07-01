@@ -14,9 +14,9 @@ int main(void) { // start of main
   /* performing reversing operation*/
   
   while (num != 0) { //  start of while loop
-    temp = num % 10;
-    printf("%d", temp);
-    num = num / 10;
+    temp = num % 10; // storing the reminder in temp
+    printf("%d", temp); // display the value stored in temp
+    num = num / 10; // store the quotient in num
   } // end of while loop
 
  return 0; // end of main
