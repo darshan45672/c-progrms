@@ -12,7 +12,7 @@ int main(void) {  // start of main
   //calculate SGPA
   SGPA=(sub1*3+sub2*4+sub3*1+sub4*4+sub5*3+sub6*1+sub7*1+sub8*1)/18.0;  //this calculates based on your grade not marks
     
-  printf("SGPA of SEM1 is %f",SGPA); // display the calculated
+  printf("SGPA of SEM1 is %f",SGPA); // display the calculated SGPA
   
   return 0;
 }
