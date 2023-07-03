@@ -15,4 +15,5 @@ int main(void) {  // start of main
   printf("SGPA of SEM1 is %f",SGPA); // display the calculated SGPA
   
  return 0; // end of main
+ 
 }
