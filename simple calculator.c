@@ -37,6 +37,6 @@ int main(void) {  //start of main
      }
      break;
 
-    default: printf("Choose a valid choice");  //display default
+    default: printf("Choose a valid choice");  //display default statement
   }
 }
