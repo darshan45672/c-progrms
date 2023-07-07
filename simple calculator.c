@@ -40,5 +40,6 @@ int main(void) {  //start of main
     default: printf("Choose a valid choice");  //display default statement
   }
 
- return 
+ return 0;
+ 
 }
