@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main(void) {  // start of 
+int main(void) {  // start of main
 
   int a[50], n, i, j, temp;
   printf("enter the number of elements\n");
