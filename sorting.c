@@ -2,8 +2,8 @@
 
 #include <stdio.h>
 
-int main(void) {
-  
+int main(void) {  // start of 
+
   int a[50], n, i, j, temp;
   printf("enter the number of elements\n");
   scanf("%d", &n);
