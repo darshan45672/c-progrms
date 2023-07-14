@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main(void) {
+int main(void) { // satrt 
 
  int a,b,res; // declaring the required varaibles
 
