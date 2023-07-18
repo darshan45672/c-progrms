@@ -6,7 +6,7 @@ int main(void) {  // start of main
 
   int a[50], n, i, j, temp;   // declaring the required variables
 
-  printf("enter the number of elements\n");   // taking input from the user
+  printf("enter the number of elements\n");   // taking number of elements as input from the user
 
   scanf("%d", &n);
   printf("enter %d elements\n",n);
