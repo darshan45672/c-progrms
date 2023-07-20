@@ -11,7 +11,7 @@ int main(void) {  // start of main
 
   printf("enter %d elements\n",n);   // taking n elements from the user
   for (i = 0; i < n; i++) { // scanning each data using a loop
-    scanf("%d\t", a[i]);  //
+    scanf("%d\t", a[i]);  // storing the elements
   }
   for (i = 1; i < n; i++) {
     for (j = 0; j < n - i; i++) {
