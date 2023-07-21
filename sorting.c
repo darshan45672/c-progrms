@@ -13,8 +13,9 @@ int main(void) {  // start of main
   for (i = 0; i < n; i++) { // scanning each data using a loop
     scanf("%d\t", a[i]);  // storing the elements in respective array indices
   }
-  
+
   for (i = 1; i < n; i++) {
+    
     for (j = 0; j < n - i; i++) {
       if (a[j] > a[j + 1]) {
         temp = a[j];
