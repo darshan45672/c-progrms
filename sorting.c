@@ -28,4 +28,7 @@ int main(void) {  // start of main
     printf("%d\t", a[i]);
   }
   printf("\n");
+
+ return 0;
+ 
 }
