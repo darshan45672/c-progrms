@@ -28,8 +28,9 @@ int main(void) {  // start of main
     }
 
   }
-  
+
   printf("the sorted elements are\n");
+  
   for (i = 0; i < n; i++) {
     printf("%d\t", a[i]);
   }
