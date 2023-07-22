@@ -23,9 +23,10 @@ int main(void) {  // start of main
         temp = a[j];
         a[j] = a[j + 1];
         a[j + 1] = temp;
-        
+
       }
     }
+    
   }
   printf("the sorted elements are\n");
   for (i = 0; i < n; i++) {
