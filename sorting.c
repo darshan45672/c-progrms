@@ -14,7 +14,7 @@ int main(void) {  // start of main
     scanf("%d\t", a[i]);  // storing the elements in respective array indices
   }
 
-  for (i = 1; i < n; i++) {
+  for (i = 1; i < n; i++) {  // starting a loop
 
     for (j = 0; j < n - i; i++) {
 
