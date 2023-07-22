@@ -15,22 +15,15 @@ int main(void) {  // start of main
   }
 
   for (i = 1; i < n; i++) {  // starting a loop
-
     for (j = 0; j < n - i; i++) {
-
       if (a[j] > a[j + 1]) {
-        
         temp = a[j];
         a[j] = a[j + 1];
         a[j + 1] = temp;
-
       }
     }
-
   }
-
   printf("the sorted elements are\n");
-  
   for (i = 0; i < n; i++) {
     printf("%d\t", a[i]);
   }
