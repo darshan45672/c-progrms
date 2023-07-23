@@ -16,7 +16,8 @@ int main(void) {  // start of main
 
   for (i = 1; i < n; i++) {  // starting a loop
     for (j = 0; j < n - i; i++) { // starting a 2nd loop
-      if (a[j] > a[j + 1]) {
+
+      if (a[j] > a[j + 1]) {   // comapring the 2 adjacent 
         temp = a[j];
         a[j] = a[j + 1];
         a[j + 1] = temp;
