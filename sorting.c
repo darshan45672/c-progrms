@@ -24,7 +24,8 @@ int main(void) {  // start of main
         a[j + 1] = temp;
       }
     }
-  }
+  } // end of for loop
+  
   printf("the sorted elements are\n");
   for (i = 0; i < n; i++) {
     printf("%d\t", a[i]);
