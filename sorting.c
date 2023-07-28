@@ -28,9 +28,11 @@ int main(void) {  // start of main
 
   /* diplaying the sorted elements */
   printf("the sorted elements are\n");
+
   for (i = 0; i < n; i++) {
-    printf("%d\t", a[i]);
+    printf("%d\t", a[i]);   // displaying all the elements present in the index
   }
+
   printf("\n");
 
  return 0;
