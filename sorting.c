@@ -25,7 +25,8 @@ int main(void) {  // start of main
       }
     }
   } // end of for loop
-  
+
+  /* diplaying the sorted elements */
   printf("the sorted elements are\n");
   for (i = 0; i < n; i++) {
     printf("%d\t", a[i]);
