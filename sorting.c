@@ -18,7 +18,8 @@ int main(void) {  // start of main
     for (j = 0; j < n - i; i++) { // starting a 2nd loop
 
       if (a[j] > a[j + 1]) {   // comapring the 2 adjacent elements
-        temp = a[j];
+
+        temp = a[j];  // swapping the elements using temp variable
         a[j] = a[j + 1];
         a[j + 1] = temp;
       }
