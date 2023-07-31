@@ -32,7 +32,6 @@ int main(void) {  // start of main
   for (i = 0; i < n; i++) {
     printf("%d\t", a[i]);   // displaying all the elements present in the index
   }
-
   printf("\n"); // come to new line
 
  return 0; // end of main
