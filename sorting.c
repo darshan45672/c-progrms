@@ -33,7 +33,7 @@ int main(void) {  // start of main
     printf("%d\t", a[i]);   // displaying all the elements present in the index
   }
 
-  printf("\n");
+  printf("\n"); // come to new line
 
  return 0;
  
