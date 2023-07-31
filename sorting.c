@@ -35,6 +35,6 @@ int main(void) {  // start of main
 
   printf("\n"); // come to new line
 
- return 0;
+ return 0; // end of main
  
 }
