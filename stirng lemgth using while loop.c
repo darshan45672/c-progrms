@@ -4,7 +4,7 @@
 
 int main(void) {  // start of main
 
-  char str[100];  // declaring a character array
+  char str[100];  // declaring a character array of size 100
   int i;
   printf("enter the string:\t");
   scanf("%s",str);
