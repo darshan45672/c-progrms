@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main(void) {
+int main(void) {  // start of main
   char str[100];
   int i;
   printf("enter the string:\t");
