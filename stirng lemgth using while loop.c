@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 int main(void) {  // start of main
-  char str[100];
+
+  char str[100];  // declaring a character array
   int i;
   printf("enter the string:\t");
   scanf("%s",str);
