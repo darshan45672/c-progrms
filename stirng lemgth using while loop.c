@@ -9,7 +9,8 @@ int main(void) {  // start of main
 
   printf("enter the string:\t");   // taking input from the user
   scanf("%s",str); // storing the string in a variable str
-  i=0;
+
+  i = 0; // initialize i = 0
   while(str[i]!='\0'){
     i++;
   }
