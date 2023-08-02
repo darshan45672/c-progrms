@@ -6,8 +6,8 @@ int main(void) {  // start of main
 
   char str[100];  // declaring a character array of size 100
   int i; // declaring a integer variable i
-  
-  printf("enter the string:\t");
+
+  printf("enter the string:\t");   // taking input from the user
   scanf("%s",str);
   i=0;
   while(str[i]!='\0'){
