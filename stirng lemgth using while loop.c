@@ -14,5 +14,6 @@ int main(void) {  // start of main
   while(str[i]!='\0'){  // comparing if the string element of each index is = '\0'
     i++; // if true then increment i by 1
   }
-  printf("length of the string is %d",i);
+
+  printf("length of the string is %d",i); // display the length of string i.e the value in i
 }
