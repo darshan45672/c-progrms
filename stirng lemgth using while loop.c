@@ -11,7 +11,7 @@ int main(void) {  // start of main
   scanf("%s",str); // storing the string in a variable str
 
   i = 0; // initialize i to 0
-  while(str[i]!='\0'){
+  while(str[i]!='\0'){  // commparing the string element
     i++;
   }
   printf("length of the string is %d",i);
