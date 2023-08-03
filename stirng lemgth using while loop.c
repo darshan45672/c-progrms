@@ -12,7 +12,7 @@ int main(void) {  // start of main
 
   i = 0; // initialize i to 0
   while(str[i]!='\0'){  // comparing if the string element of each index is = '\0'
-    i++;
+    i++; // if true then increment i by 1
   }
   printf("length of the string is %d",i);
 }
