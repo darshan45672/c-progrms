@@ -17,5 +17,6 @@ int main(void) {  // start of main
 
   printf("length of the string is %d",i); // display the length of string i.e the value in i
  
- return 0; //
+ return 0; // end of main
+ 
 }
