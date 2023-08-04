@@ -2,7 +2,8 @@
 
 #include <stdio.h> // includimg the file that has basic functions
 
-int main(void) {
+int main(void) {  // start of main
+
   char str1[100], str2[100];
   int i, length1, length2;
   printf("enter the first string\n");
