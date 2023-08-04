@@ -1,6 +1,6 @@
 /* Program to compare two strings entered by the user using while loop */
 
-#include <stdio.h>
+#include <stdio.h> // includimg the file that has basic functions
 
 int main(void) {
   char str1[100], str2[100];
