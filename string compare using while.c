@@ -5,6 +5,7 @@
 int main(void) {  // start of main
 
   char str1[100], str2[100];  // declaring 2 character arrays of size 100 
+  
   int i, length1, length2;
   printf("enter the first string\n");
   scanf("%s", str1);
