@@ -8,7 +8,7 @@ int main(void) {  // start of main
 
   int i, length1, length2;  // declaring the required variables
 
-
+  /* Taking input from the user*/
   printf("enter the first string\n"); 
   scanf("%s", str1);
   printf("enter the second string\n");
