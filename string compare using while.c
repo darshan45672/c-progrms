@@ -13,6 +13,8 @@ int main(void) {  // start of main
   scanf("%s", str1);
   printf("enter the second string\n");
   scanf("%s", str2);
+
+  
   length1 = strlen(str1);
   length2 = strlen(str2);
   if (length1 != length2) {
