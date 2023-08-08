@@ -14,8 +14,8 @@ int main(void) {  // start of main
   printf("enter the second string\n");
   scanf("%s", str2);
 
-  
-  length1 = strlen(str1);
+
+  length1 = strlen(str1); // store the length
   length2 = strlen(str2);
   if (length1 != length2) {
     printf("string 1 is not equal to string 2\n");
