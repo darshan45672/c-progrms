@@ -18,7 +18,7 @@ int main(void) {  // start of main
   length1 = strlen(str1); // store the length of first string str1 in length1
   length2 = strlen(str2); // store the length of first string str1 in length1
   
-  if (length1 != length2) {  // checkong if 
+  if (length1 != length2) {  // checkong if both the strings are
     printf("string 1 is not equal to string 2\n");
   } else {
     i = 0;
