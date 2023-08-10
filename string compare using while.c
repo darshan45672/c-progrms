@@ -19,7 +19,7 @@ int main(void) {  // start of main
   length2 = strlen(str2); // store the length of first string str1 in length1
   
   if (length1 != length2) {  // checkong if both the strings are not of same length 
-    printf("string 1 is not equal to string 2\n");
+    printf("string 1 is not equal to string 2\n");  // if true then display strings are 
   } else {
     i = 0;
     while (str1[i] != '\0') {
