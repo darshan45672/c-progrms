@@ -33,5 +33,6 @@ int main(void) {  // start of main
       }
     }
     printf("strings are equal\n");
+    
   }
 }
