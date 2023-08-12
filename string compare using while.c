@@ -25,7 +25,8 @@ int main(void) {  // start of main
   else {  // if not then proceed
 
     i = 0;  // initialize variable i to 0
-    while (str1[i] != '\0') {
+
+    while (str1[i] != '\0') {  // run a loop checking the test condition
       if (str1[i] != str2[i]) {
         printf("string 1 is not equal to string 2\n");
         exit(0);
