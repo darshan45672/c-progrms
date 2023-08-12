@@ -22,7 +22,7 @@ int main(void) {  // start of main
     printf("string 1 is not equal to string 2\n");  // if true then display strings are not equal
   } 
   
-  else {
+  else {  // if not then proceed
     i = 0;
     while (str1[i] != '\0') {
       if (str1[i] != str2[i]) {
