@@ -30,7 +30,8 @@ int main(void) {  // start of main
 
       if (str1[i] != str2[i]) { // checking wether the elements are same / equal
         printf("string 1 is not equal to string 2\n");   // if false then display they are not same
-        exit(0);
+        exit(0); // exit from execution/ terminate
+        
       } else {
         i++;
       }
