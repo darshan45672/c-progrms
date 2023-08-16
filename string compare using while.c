@@ -39,4 +39,7 @@ int main(void) {  // start of main
 
     printf("strings are equal\n");  // display strings are equal
   }
+
+  return 0; // end of main
+  
 }
