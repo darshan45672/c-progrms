@@ -36,6 +36,7 @@ int main(void) {  // start of main
         i++; // incrementing i by 1
       }
     }
-    printf("strings are equal\n");
+
+    printf("strings are equal\n");  // display strings are equal
   }
 }
