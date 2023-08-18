@@ -2,8 +2,9 @@
 
 #include <stdio.h>
 
-int main(void) {
-  char s1[100],s2[100];
+int main(void) {  // start of main
+
+  char s1[100],s2[100]; 
   printf("enter the first string:\t");
   scanf("%s",s1);
   printf("\nenter the second string:\t");
