@@ -8,6 +8,7 @@ int main(void) {  // start of main
   
   printf("enter the first string:\t");  // taking input from the user
   scanf("%s",s1); // storing the user entered data in s1
+  
   printf("\nenter the second string:\t"); // taking input from the user
   scanf("%s",s2);
   strcat(s1,s2);
