@@ -1,7 +1,7 @@
 /* Program to perform string concatination using string built in functions */
 
 #include <stdio.h>
-#include<string.h>
+#include<string.h>  // has all the string operation methods
 
 int main(void) {  // start of main
 
