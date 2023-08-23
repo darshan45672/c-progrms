@@ -15,5 +15,6 @@ int main(void) {  // start of main
   
   strcat(s1,s2);  // concatinating 2 strings using strcat()
 
+
   printf("\nthe concatenated string is %s\n",s1);  // display the concatenated string
 }
