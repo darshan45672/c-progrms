@@ -17,6 +17,6 @@ int main(void) {  // start of main
 
   printf("\nthe concatenated string is %s\n",s1);  // display the concatenated string
  
- return 0 ; // end of 
+ return 0 ; // end of main
  
 }
