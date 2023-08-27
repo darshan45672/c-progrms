@@ -1,6 +1,7 @@
 /* Program to concatenate two strings using string built-in  functions */
 
 #include <stdio.h>
+
 #include <string.h>
 int main(void) {
   char s1[20], s2[20];
