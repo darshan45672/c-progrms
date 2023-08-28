@@ -14,7 +14,7 @@ int main(void) {  // start of main
   gets(s2); // reading string
 
   printf("enter n:\n"); // taking 
-  scanf("%d", &n);  //
+  scanf("%d", &n);  // 
   strncat(s1, s2, n); //
 
   printf("the conctanated sting is\n");  // 
