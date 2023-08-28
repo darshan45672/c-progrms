@@ -1,9 +1,12 @@
 /* Program to concatenate two strings using string built-in  functions */
 
-#include <stdio.h>
-#include <string.h>
-int main(void) {
-  char s1[20], s2[20];
+#include <stdio.h>  // include basic functions
+#include <string.h> // library that has string functions
+
+
+int main(void) {  // start of main
+
+  char s1[20], s2[20];  // declare the required arrays
   int n;
   printf("enter the first string:\n");
   gets(s1);
