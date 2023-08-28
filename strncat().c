@@ -18,4 +18,5 @@ int main(void) {  // start of main
   strncat(s1, s2, n);
   printf("the conctanated sting is\n");
   puts(s1);
+  
 }
