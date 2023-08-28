@@ -1,4 +1,4 @@
-/* Program to concatenate two strings using string built-in  functions */
+/* Program to concatenate two strings using string built-in functions */
 
 #include <stdio.h>  // include basic functions
 #include <string.h> // library that has string functions
