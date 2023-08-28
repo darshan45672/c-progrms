@@ -13,13 +13,13 @@ int main(void) {  // start of main
   printf("enter the second string:\n");   // taking 2nd input from the user
   gets(s2); // reading string
 
-  printf("enter n:\n"); //
+  printf("enter n:\n"); // taking 
   scanf("%d", &n);  //
   strncat(s1, s2, n); //
 
-  printf("the conctanated sting is\n");
-  puts(s1);
+  printf("the conctanated sting is\n");  // 
+  puts(s1); //
 
-return 0;
+ return 0;
 
 }
