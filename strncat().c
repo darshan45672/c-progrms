@@ -10,7 +10,7 @@ int main(void) {  // start of main
   int n;  // declaring a variable
 
   printf("enter the first string:\n");  // taking input from the user
-  gets(s1);
+  gets(s1); // reading 
   printf("enter the second string:\n");
   gets(s2);
   printf("enter n:\n");
