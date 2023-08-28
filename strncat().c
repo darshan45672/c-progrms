@@ -7,8 +7,9 @@
 int main(void) {  // start of main
 
   char s1[20], s2[20];  // declare the required arrays
-  int n;
-  printf("enter the first string:\n");
+  int n;  // declaring a variable
+
+  printf("enter the first string:\n");  // taking input from the user
   gets(s1);
   printf("enter the second string:\n");
   gets(s2);
