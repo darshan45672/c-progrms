@@ -20,6 +20,6 @@ int main(void) {  // start of main
   printf("the conctanated sting is\n");  // 
   puts(s1); //
 
- return 0;
+ return 0;  // end of main
 
 }
