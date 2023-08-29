@@ -13,12 +13,12 @@ int main(void) {  // start of main
   printf("enter the second string:\n");   // taking 2nd input from the user
   gets(s2); // reading string
 
-  printf("enter n:\n"); // taking 
-  scanf("%d", &n);  // 
-  strncat(s1, s2, n); //
+  printf("enter n:\n"); // taking the length of string
+  scanf("%d", &n);  // storing the data in a variable 
+  strncat(s1, s2, n); // concatating 
 
-  printf("the conctanated sting is\n");  // 
-  puts(s1); //
+  printf("the conctanated sting is\n");  // DISPLAY THE MESSAGE
+  puts(s1); // display the concatenated string
 
  return 0;  // end of main
 
