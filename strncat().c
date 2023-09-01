@@ -21,6 +21,5 @@ int main(void) {  // start of main
   puts(s1); // display the concatenated string
 
  return 0;  // end of main
- 
 
 }
