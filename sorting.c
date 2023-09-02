@@ -20,7 +20,7 @@ int main(void) {  // start of main
       if (a[j] > a[j + 1]) {   // comapring the 2 adjacent elements
 
         temp = a[j];  // swapping the elements using temp variable
-        a[j] = a[j + 1];
+        a[j] = a[j + 1];   // storing the data of next index in current index
         a[j + 1] = temp;
       }
     }
