@@ -21,7 +21,7 @@ int main(void) {  // start of main
 
         temp = a[j];  // swapping the elements using temp variable
         a[j] = a[j + 1];   // storing the data of next index in current index
-        a[j + 1] = temp;
+        a[j + 1] = temp;  // storing the data of temp
       }
     }
   } // end of for loop
