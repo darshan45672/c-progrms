@@ -1,6 +1,6 @@
 /* Program to calculate String length using while loop */
 
-#include <stdio.h>  // including basic headet file having basic function
+#include <stdio.h>  // including basic headet file having basic functions
 
 int main(void) {  // start of main
 
