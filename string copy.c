@@ -1,6 +1,6 @@
 /* Program to copy string from one source to a destination */
 
-#include <stdio.h>
+#include <stdio.h>  // including the 
 #include<string.h>
 int main(void) {
   char src[100],cpy[100];
