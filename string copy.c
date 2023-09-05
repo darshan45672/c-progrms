@@ -9,7 +9,8 @@ int main(void) {
 
   printf("enter the string to b copied:\t");
   scanf("%s",src);
-  
+
   strcpy(cpy,src);
+  
   printf("copied sting is %s\n",cpy);
 }
