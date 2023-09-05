@@ -6,9 +6,10 @@
 int main(void) {
 
   char src[100],cpy[100];
-  
+
   printf("enter the string to b copied:\t");
   scanf("%s",src);
+  
   strcpy(cpy,src);
   printf("copied sting is %s\n",cpy);
 }
