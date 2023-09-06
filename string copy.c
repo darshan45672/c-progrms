@@ -3,7 +3,7 @@
 #include <stdio.h>  // including the basic header file
 #include<string.h>  // including the header file for string operattions
 
-int main(void) {
+int main(void) {  // start of main
 
   char src[100],cpy[100];
 
@@ -13,5 +13,5 @@ int main(void) {
   strcpy(cpy,src);
   
   printf("copied sting is %s\n",cpy);
-  
+
 }
