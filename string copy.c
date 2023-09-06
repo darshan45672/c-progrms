@@ -5,7 +5,7 @@
 
 int main(void) {  // start of main
 
-  char src[100],cpy[100];
+  char src[100],cpy[100]; // declare the required arrays
 
   printf("enter the string to b copied:\t");
   scanf("%s",src);
