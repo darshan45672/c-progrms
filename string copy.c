@@ -13,4 +13,5 @@ int main(void) {
   strcpy(cpy,src);
   
   printf("copied sting is %s\n",cpy);
+  
 }
