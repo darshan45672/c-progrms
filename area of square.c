@@ -2,7 +2,6 @@
 
 #include <stdio.h>
 
-
 //using single variable
 
 int main(void) {
