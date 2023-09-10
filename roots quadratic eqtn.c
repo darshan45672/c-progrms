@@ -3,7 +3,6 @@
 #include <math.h>
 #include <stdio.h>
 
-
 int main(void) {  // start of main
 
 
