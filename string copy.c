@@ -10,7 +10,7 @@ int main(void) {  // start of main
   printf("enter the string to b copied:\t");  // taking input from the user
   scanf("%s",src);  //  storing the data in a variable named src
 
-  strcpy(cpy,src);
+  strcpy(cpy,src);  //
   
   printf("copied sting is %s\n",cpy);
 
