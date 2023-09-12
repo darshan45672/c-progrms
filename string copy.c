@@ -13,4 +13,5 @@ int main(void) {  // start of main
   strcpy(cpy,src);  //  copying the string from the source to 
   
   printf("copied sting is %s\n",cpy);
+  
 }
