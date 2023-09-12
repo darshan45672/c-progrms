@@ -14,6 +14,6 @@ int main(void) {  // start of main
   
   printf("copied sting is %s\n",cpy);
 
- return ;
- 
+ return 0 ;
+
 }
