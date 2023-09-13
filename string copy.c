@@ -14,6 +14,6 @@ int main(void) {  // start of main
   
   printf("copied sting is %s\n",cpy); // displaying the copied string
 
- return 0 ; // end of ma
+ return 0 ; // end of main
 
 }
