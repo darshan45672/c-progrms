@@ -4,7 +4,6 @@
 
 //using single variable
 
-
 int main(void) {
   //area of a square
  int side;
