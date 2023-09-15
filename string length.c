@@ -1,7 +1,7 @@
 /* Program to find length of a string using string built in functions */
 
 #include <stdio.h>  // including headerfile that has basic input output functions
-#include <string.h> // including headerfile that has basic string  functions
+#include <string.h> // including headerfile that has basic string operation functions
 
 int main(void) {
   char str[100];
