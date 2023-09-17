@@ -4,6 +4,7 @@
 #include <string.h> // including headerfile that has basic string operation functions
 
 int main(void) {
+  
   char str[100];
   int length;
   printf("enter the string:\n");
