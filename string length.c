@@ -7,6 +7,7 @@ int main(void) {
 
   char str[100];  //
   int length; //
+  
   printf("enter the string:\n");
   scanf("%s",str);
   length=strlen(str);
