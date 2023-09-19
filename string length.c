@@ -5,7 +5,7 @@
 
 int main(void) {
 
-  char str[100];  //
+  char str[100];  // declaring the required chararcter array
   int length; //
   
   printf("enter the string:\n");  //
