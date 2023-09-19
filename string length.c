@@ -6,7 +6,7 @@
 int main(void) {
 
   char str[100];  // declaring the required chararcter array
-  int length; //
+  int length; //  declaring a variable for length
   
   printf("enter the string:\n");  //
   scanf("%s",str);
