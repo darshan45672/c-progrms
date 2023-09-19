@@ -10,6 +10,6 @@ int main(void) {
   
   printf("enter the string:\n");  //
   scanf("%s",str);
-  length=strlen(str);
+  length = strlen(str);
   printf("length of the string is %d\n",length);
 }
