@@ -13,6 +13,6 @@ int main(void) {
 
   length = strlen(str); //
 
-  printf("length of the string is %d\n",length);
+  printf("length of the string is %d\n",length);  //
   
 }
