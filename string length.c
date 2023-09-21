@@ -9,7 +9,7 @@ int main(void) {
   int length; //  declaring a variable for length
   
   printf("enter the string:\n");  //
-  scanf("%s",str);
+  scanf("%s",str);  //
 
   length = strlen(str);
 
