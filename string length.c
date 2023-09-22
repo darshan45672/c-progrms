@@ -8,7 +8,7 @@ int main(void) {
   char str[100];  // declaring the required chararcter array
   int length; //  declaring a variable for length
   
-  printf("enter the string:\n");  //
+  printf("enter the string:\n");  //  taking input from the user
   scanf("%s",str);  //
 
   length = strlen(str); //
