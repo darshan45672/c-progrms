@@ -11,7 +11,7 @@ int main(void) {
   printf("enter the string:\n");  //  taking input from the user
   scanf("%s",str);  //  storing the user entered data in a variable str
 
-  length = strlen(str); //
+  length = strlen(str); // finding the length of entered string using built-in method and assiging the value to another variable named length
 
   printf("length of the string is %d\n",length);  //
   
