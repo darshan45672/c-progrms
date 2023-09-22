@@ -14,5 +14,7 @@ int main(void) {
   length = strlen(str); // finding the length of entered string using built-in method and assiging the value to another variable named length
 
   printf("length of the string is %d\n",length);  //  display the length of the string
+
+  return 0;   // end of main
   
 }
