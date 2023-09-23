@@ -3,7 +3,8 @@
 #include <stdio.h>  // including headerfile that has basic input output functions
 #include <string.h> // including headerfile that has basic string operation functions
 
-int main(void) {  //  start of 
+int main(void) {  //  start of main
+
 
   char str[100];  // declaring the required chararcter array
   int length; //  declaring a variable for length
