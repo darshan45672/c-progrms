@@ -5,7 +5,6 @@
 
 int main(void) {  //  start of main
 
-
   char str[100];  // declaring the required chararcter array
   int length; //  declaring a variable for length
   
