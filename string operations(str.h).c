@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 #include <strings.h>
+
 int main(void) {
   char str1[100], str2[100];
   int len1, len2;
