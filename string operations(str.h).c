@@ -4,10 +4,11 @@
 #include <strings.h>
 
 int main(void) {
-  
+
   char str1[100], str2[100];
   int len1, len2;
   int result;
+  
   printf("enter the firt string:\n");
   scanf("%s", str1);
   printf("enter the second string:\n");
