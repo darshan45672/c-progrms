@@ -11,6 +11,7 @@ int main(void) {
   
   printf("enter the firt string:\n");
   scanf("%s", str1);
+  
   printf("enter the second string:\n");
   scanf("%s", str2);
   len1 = strlen(str1);
