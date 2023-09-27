@@ -11,9 +11,10 @@ int main(void) {
   
   printf("enter the firt string:\n");
   scanf("%s", str1);
-  
+
   printf("enter the second string:\n");
   scanf("%s", str2);
+  
   len1 = strlen(str1);
   len2 = strlen(str2);
   printf("the lemgth of first string is %d\n", strlen(str1));
