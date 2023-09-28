@@ -17,6 +17,7 @@ int main(void) {
   
   len1 = strlen(str1);
   len2 = strlen(str2);
+  
   printf("the lemgth of first string is %d\n", strlen(str1));
   printf("the length of second string is %d\n", strlen(str2));
   result = strcmp(str1, str2);
