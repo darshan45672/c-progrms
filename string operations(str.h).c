@@ -22,12 +22,13 @@ int main(void) {
   printf("the length of second string is %d\n", strlen(str2));
 
   result = strcmp(str1, str2);
-  
+
   if (result == 0) {
     printf("strings are equal!\n");
   } else {
     printf("strings are not equal!\n");
   }
+  
   strcat(str1, str2);
   printf("the concatenated string is %s\n", str1);
 }
