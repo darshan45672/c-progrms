@@ -20,8 +20,9 @@ int main(void) {
 
   printf("the lemgth of first string is %d\n", strlen(str1));
   printf("the length of second string is %d\n", strlen(str2));
-  
+
   result = strcmp(str1, str2);
+  
   if (result == 0) {
     printf("strings are equal!\n");
   } else {
