@@ -31,4 +31,5 @@ int main(void) {
   
   strcat(str1, str2);
   printf("the concatenated string is %s\n", str1);
+  
 }
