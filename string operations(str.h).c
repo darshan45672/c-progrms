@@ -1,7 +1,7 @@
 /* Program to perform various string operations */
 
-#include <stdio.h>
-#include <strings.h>
+#include <stdio.h>  //
+#include <strings.h>  
 
 int main(void) {
 
@@ -31,5 +31,5 @@ int main(void) {
   
   strcat(str1, str2);
   printf("the concatenated string is %s\n", str1);
-  
+
 }
