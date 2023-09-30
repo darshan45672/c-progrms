@@ -1,7 +1,7 @@
 /* Program to perform various string operations */
 
 #include <stdio.h>  //
-#include <strings.h>  
+#include <strings.h>  //
 
 int main(void) {
 
