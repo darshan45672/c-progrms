@@ -11,9 +11,10 @@ int main()
 {
     char s[100];
     int n,i,j;
-    
+
     printf("\n\nEnter a string : ");
     scanf("%s",s);
+    
     n=strlen(s);
     for(i=0;i<n;i++)
     {
