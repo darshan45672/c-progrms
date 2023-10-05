@@ -7,8 +7,8 @@
 #include<stdlib.h>
 #include<string.h>
 
-int main()
-{
+int main() {
+    
     char s[100];
     int n,i,j;
 
@@ -18,7 +18,7 @@ int main()
     n=strlen(s);
 
     for(i=0;i<n;i++) {
-        
+
         for(j=i+1;j<n;j++){
 
             if(s[i]==s[j]&&s[i]!='"')
