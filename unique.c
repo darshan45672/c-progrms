@@ -8,7 +8,7 @@
 #include<string.h>
 
 int main() {
-    
+
     char s[100];
     int n,i,j;
 
@@ -21,8 +21,7 @@ int main() {
 
         for(j=i+1;j<n;j++){
 
-            if(s[i]==s[j]&&s[i]!='"')
-            {
+            if(s[i]==s[j]&&s[i]!='"') {
             printf("\n\nfalse");
             exit(0);
             }
