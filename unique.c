@@ -9,7 +9,7 @@
 
 int main() {    //
 
-    char s[100];
+    char s[100];    //
     int n,i,j;
 
     printf("\n\nEnter a string : ");
