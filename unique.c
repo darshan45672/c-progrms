@@ -13,7 +13,7 @@ int main() {    //
     int n,i,j;  //
 
     printf("\n\nEnter a string : ");    //
-    scanf("%s",s);
+    scanf("%s",s);  //
     
     n=strlen(s);
 
