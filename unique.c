@@ -23,7 +23,7 @@ int main() {    //
 
             if(s[i]==s[j]&&s[i]!='"') {     //
             printf("\n\nfalse");    //
-            exit(0);
+            exit(0);    //
             }
         }
     }
