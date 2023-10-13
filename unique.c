@@ -22,7 +22,7 @@ int main() {    //
         for(j=i+1;j<n;j++){     //
 
             if(s[i]==s[j]&&s[i]!='"') {     //
-            printf("\n\nfalse");
+            printf("\n\nfalse");    //
             exit(0);
             }
         }
