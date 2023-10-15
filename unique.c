@@ -1,7 +1,7 @@
 /*Implement an algorithm to determine if a string has all unique characters.*/
 /*What if you cannot use additional data structures?*/
 
-//solution
+//
 
 #include<stdio.h>   //
 #include<stdlib.h>  //
@@ -31,5 +31,5 @@ int main() {    //
     printf("\n\ntrue"); //
 
   return 0; //
-  
+
 }
