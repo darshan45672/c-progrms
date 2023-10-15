@@ -1,5 +1,5 @@
 /*Implement an algorithm to determine if a string has all unique characters.*/
-/*What if you cannot 
+
 #include<stdio.h>   //
 #include<stdlib.h>  //
 #include<string.h>  //
