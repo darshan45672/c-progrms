@@ -6,7 +6,7 @@
 
 int main() {    // start of main
 
-    char s[100];    //
+    char s[100];    //  declaring character array
     int n,i,j;  //
 
     printf("\n\nEnter a string : ");    //
