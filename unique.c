@@ -4,7 +4,7 @@
 #include<stdlib.h>  //
 #include<string.h>  //
 
-int main() {    //
+int main() {    // start of main
 
     char s[100];    //
     int n,i,j;  //
