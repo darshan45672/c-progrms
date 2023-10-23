@@ -25,7 +25,7 @@ int main() {    // start of main
         }
     }
 
-    printf("\n\ntrue"); //
+    printf("\n\ntrue"); // displa
 
   return 0; // end of main
 
