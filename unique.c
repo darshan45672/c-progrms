@@ -7,7 +7,7 @@
 int main() {    // start of main
 
     char s[100];    //  declaring character array
-    int n,i,j;  //  declaring the 
+    int n,i,j;  //  declaring the required 
 
     printf("\n\nEnter a string : ");    //
     scanf("%s",s);  //
