@@ -9,7 +9,7 @@ int main() {    // start of main
     char s[100];    //  declaring character array
     int n,i,j;  //  declaring the required variables
 
-    printf("\n\nEnter a string : ");    // takin g
+    printf("\n\nEnter a string : ");    // taking
     scanf("%s",s);  //
     
     n = strlen(s);    //
