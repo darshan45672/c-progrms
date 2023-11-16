@@ -10,7 +10,7 @@ int main() {    // start of main
     int n,i,j;  //  declaring the required variables
 
     printf("\n\nEnter a string : ");    // taking input from the user
-    scanf("%s",s);  // storing the user entered data
+    scanf("%s",s);  // storing the user entered data in a 
     
     n = strlen(s);    //
 
