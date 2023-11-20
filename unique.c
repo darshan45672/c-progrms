@@ -12,7 +12,7 @@ int main() {    // start of main
     printf("\n\nEnter a string : ");    // taking input from the user
     scanf("%s",s);  // storing the user entered data in a variable named s
     
-    n = strlen(s);    // calculate the length of the string using string built in
+    n = strlen(s);    // calculate the length of the string using string built-in functions
 
     for(i=0;i<n;i++) {  //
 
