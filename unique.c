@@ -16,7 +16,6 @@ int main() {    // start of main
 
     for(i=0;i<n;i++) {  // start of outer loop
         for(j=i+1;j<n;j++){     // start of inner loop
-
             if(s[i]==s[j]&&s[i]!='"') {     //
             printf("\n\nfalse");    //
             exit(0);    //
