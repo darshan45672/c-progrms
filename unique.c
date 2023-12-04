@@ -18,7 +18,7 @@ int main() {    // start of main
         for(j=i+1;j<n;j++){     // start of inner loop
             if(s[i]==s[j]&&s[i]!="") {     // checking the condition
             printf("\n\nfalse");    // display appropriate message
-            exit(0);    // terminate 
+            exit(0);    // terminate the execution
             }
         }
     }
