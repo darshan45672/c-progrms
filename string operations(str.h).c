@@ -1,6 +1,6 @@
 /* Program to perform various string operations */
 
-#include <stdio.h>  //
+#include <stdio.h>  // added basic header
 #include <strings.h>  //
 
 int main(void) {  // start of main
