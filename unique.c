@@ -24,5 +24,4 @@ int main() {    // start of main
     }
     printf("\n\ntrue"); // displaying message
   return 0; // end of main
-
 }
