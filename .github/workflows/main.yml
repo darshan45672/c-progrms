@@ -1,0 +1,11 @@
+name: test-runner
+
+on: push
+
+jobs: 
+  name: code-test
+  runs-on: ubuntu-latest
+  
+  steps:
+    - name: Chekout-code
+      uses: actions/checkout@v2
