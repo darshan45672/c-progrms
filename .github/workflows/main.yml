@@ -3,7 +3,7 @@ name: test-runner
 on: push
 
 jobs: 
-  name: Checkout code
+  name: Checkout Code
   runs-on: ubuntu-latest
   
   steps:
