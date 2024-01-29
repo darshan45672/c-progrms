@@ -1,6 +1,6 @@
 /* Program to find the sum and average of integers */
 
-#include <stdio.h>
+#include <stdio.h> // including all the basic functions in this header file
 
 int main(void) {
   int a[10], i, n, sum = 0;
