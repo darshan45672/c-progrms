@@ -5,7 +5,7 @@
 int main(void) {  // start of main
 
   int a[10], i, n, sum = 0; // declaring the required variables
-  float avg;
+  float avg; // declaring the floating variables
   printf("enter the numbers of elemenst:\n");
   scanf("%d", &n);
   printf("enter %d elements:\n", n);
