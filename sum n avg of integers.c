@@ -2,7 +2,7 @@
 
 #include <stdio.h> // including all the basic functions in this header file
 
-int main(void) {
+int main(void) {  // start of main
   int a[10], i, n, sum = 0;
   float avg;
   printf("enter the numbers of elemenst:\n");
