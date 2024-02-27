@@ -5,7 +5,7 @@
 
 int main(void) {  // start of main
 
-  char str1[100], str2[100];  //
+  char str1[100], str2[100];  // initialise the string array
   int len1, len2;
   int result;
   
