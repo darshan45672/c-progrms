@@ -7,7 +7,7 @@ int main(void) {  // start of main
 
   char str1[100], str2[100];  // initialise the string array
   int len1, len2; // initialise the length of the string
-  int result; // declared a new 
+  int result; // declared a new variable result
   
   printf("enter the firt string:\n");
   scanf("%s", str1);
