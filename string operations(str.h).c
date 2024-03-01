@@ -9,7 +9,7 @@ int main(void) {  // start of main
   int len1, len2; // initialise the length of the string
   int result; // declared a new variable result to store the result of the comparison
   
-  printf("enter the firt string:\n"); // taking input from
+  printf("enter the firt string:\n"); // taking input from the user
   scanf("%s", str1);
 
   printf("enter the second string:\n");
